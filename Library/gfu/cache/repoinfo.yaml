@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-15T09:34:23.422+02:00
-  initializedAtString: 2021-04-15T09:34:23.422+02:00
+  lastUpdatedAtString: 2021-04-15T20:21:57.146+02:00
+  initializedAtString: 2021-04-15T10:39:31.259+02:00
   currentGitRemote:
-    name: origin
-    url: https://github.com/LinumGit/FinalProjectDAM.git
+    name: FinalProjectRepo
+    url: https://github.com/LinumGit/FinalProjectRepo.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: updated
-    tracking: origin/updated
+    name: main
+    tracking: 
   currentConfigBranch:
-    name: updated
+    name: main
     remote:
-      name: origin
-      url: https://github.com/LinumGit/FinalProjectDAM.git
-    trackingBranch: updated
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
-    name: origin
-    url: https://github.com/LinumGit/FinalProjectDAM.git
+    name: FinalProjectRepo
+    url: https://github.com/LinumGit/FinalProjectRepo.git
   currentHead: 

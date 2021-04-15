@@ -13,21 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-04-15T09:34:24.369+02:00
-  initializedAtString: 2021-04-15T09:34:24.353+02:00
+  lastUpdatedAtString: 2021-04-15T20:42:55.133+02:00
+  initializedAtString: 2021-04-15T11:34:41.927+02:00
   localBranches:
-  - name: master
-    tracking: origin/master
-  - name: updated
-    tracking: origin/updated
+  - name: main
+    tracking: 
   remoteBranches:
-  - name: origin/master
-    tracking: '[None]'
-  - name: origin/updated
+  - name: FinalProjectRepo/main
     tracking: '[None]'
   remotes:
-  - name: origin
-    url: https://github.com/LinumGit/FinalProjectDAM.git
+  - name: FinalProjectRepo
+    url: https://github.com/LinumGit/FinalProjectRepo.git
     login: 
     user: 
     host: 
@@ -35,41 +31,29 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - master
-    - updated
+    - main
     values:
-    - name: master
+    - name: main
       remote:
-        name: origin
-        url: https://github.com/LinumGit/FinalProjectDAM.git
-      trackingBranch: master
-    - name: updated
-      remote:
-        name: origin
-        url: https://github.com/LinumGit/FinalProjectDAM.git
-      trackingBranch: updated
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
-    - origin
+    - FinalProjectRepo
     subKeys:
     - Values:
-      - master
-      - updated
+      - main
     subKeyValues:
     - Values:
-      - name: master
+      - name: main
         remote:
-          name: origin
-          url: https://github.com/LinumGit/FinalProjectDAM.git
-        trackingBranch: 
-      - name: updated
-        remote:
-          name: origin
-          url: https://github.com/LinumGit/FinalProjectDAM.git
+          name: FinalProjectRepo
+          url: https://github.com/LinumGit/FinalProjectRepo.git
         trackingBranch: 
   configRemotes:
     keys:
-    - origin
+    - FinalProjectRepo
     values:
-    - name: origin
-      url: https://github.com/LinumGit/FinalProjectDAM.git
+    - name: FinalProjectRepo
+      url: https://github.com/LinumGit/FinalProjectRepo.git

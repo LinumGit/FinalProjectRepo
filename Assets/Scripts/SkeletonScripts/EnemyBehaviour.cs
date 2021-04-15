@@ -46,11 +46,14 @@ public class EnemyBehaviour : MonoBehaviour
         healthBar.SetHealth(currentHealth, maxHealth);
         rb = GetComponent<Rigidbody2D>();
         bc = GetComponent<BoxCollider2D>();
+        Debug.Log(leftLimit.position);
     }
 
     // Update is called once per frame
     void Update()
     {
+        
+        Debug.Log("inrange= " + inRange + " target= " +target);
         if (!attackMode)
         {
             Move();
@@ -112,7 +115,10 @@ public class EnemyBehaviour : MonoBehaviour
         if (collision.gameObject.tag == "Player") {
             target = collision.transform;
             inRange = true;
-            Flip();
+            if(currentHealth > 0)
+            {
+                Flip();
+            }
         }
     }
 

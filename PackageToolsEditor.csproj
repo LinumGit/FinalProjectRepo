@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CD408E67-2E93-4245-1F12-38CF4C63FF4A}</ProjectGuid>
+    <ProjectGuid>{9642DAC4-0632-E01E-4AF4-6D16D33E08E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PackageToolsEditor</AssemblyName>
@@ -264,25 +264,25 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Pathfinding.Ionic.Zip.Reduced">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Api.45">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Logging">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.Unity.45">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
     </Reference>
     <Reference Include="GitHub.UnityShim">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
     </Reference>
     <Reference Include="sfw.net">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -639,21 +639,21 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/DAM2/Unity/Game/FinalProjectDAM/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/DAM2/Unity/Game/FinalProjectRepo/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AstarPathfindingProject.csproj">
-      <Project>{61746814-9B2E-318B-50F1-B534676FAE22}</Project>
+      <Project>{7F22CED9-DA90-C8B5-6F3B-016A045D4DB9}</Project>
       <Name>AstarPathfindingProject</Name>
     </ProjectReference>
   </ItemGroup>
