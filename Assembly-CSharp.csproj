@@ -65,14 +65,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Effects\Blink.cs" />
-    <Compile Include="Assets\Scripts\HealthBarBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Items\ArrowDamage.cs" />
+    <Compile Include="Assets\Scripts\Items\Collectible.cs" />
+    <Compile Include="Assets\Scripts\Items\Potions.cs" />
+    <Compile Include="Assets\Scripts\Items\SubItems.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerJump.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\PlayerScripts\SubWeapons.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\UICamera.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs" />
+    <Compile Include="Assets\Scripts\SkeletonScripts\HealthBarBehaviour.cs" />
     <Compile Include="Assets\Scripts\Traps\DamagingSpike.cs" />
+    <Compile Include="Assets\WeaponDamage.cs" />
     <None Include="Assets\Hero and Opponents\license.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

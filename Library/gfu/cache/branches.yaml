@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-04-15T20:42:55.133+02:00
-  initializedAtString: 2021-04-15T11:34:41.927+02:00
+  lastUpdatedAtString: 2021-04-16T00:22:17.599+02:00
+  initializedAtString: 2021-04-15T21:17:20.784+02:00
   localBranches:
   - name: main
-    tracking: 
+    tracking: FinalProjectRepo/main
   remoteBranches:
   - name: FinalProjectRepo/main
     tracking: '[None]'
@@ -35,9 +35,9 @@ MonoBehaviour:
     values:
     - name: main
       remote:
-        name: 
-        url: 
-      trackingBranch: 
+        name: FinalProjectRepo
+        url: https://github.com/LinumGit/FinalProjectRepo.git
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - FinalProjectRepo

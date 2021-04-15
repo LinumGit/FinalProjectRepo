@@ -17,6 +17,7 @@ public class EnemyBehaviour : MonoBehaviour
     public HealthBarBehaviour healthBar;
     public float attackForceX;
     public float damageGiven = 10;
+    public Collider2D hitbox;
     #endregion
 
     #region Private Variables
@@ -49,7 +50,7 @@ public class EnemyBehaviour : MonoBehaviour
         Debug.Log(leftLimit.position);
     }
 
-    // Update is called once per frame
+   
     void Update()
     {
         
@@ -107,6 +108,7 @@ public class EnemyBehaviour : MonoBehaviour
         GetComponent<EnemyBehaviour>().enabled = false;
         GetComponent<Rigidbody2D>().gravityScale = 0;
         GetComponentInChildren<Canvas>().enabled = false;
+        hitbox.enabled = false;
         Destroy(gameObject, 10);
     }
 

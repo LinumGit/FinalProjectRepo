@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-04-15T20:21:57.146+02:00
-  initializedAtString: 2021-04-15T10:39:31.259+02:00
+  lastUpdatedAtString: 2021-04-16T00:22:15.632+02:00
+  initializedAtString: 2021-04-15T20:55:17.565+02:00
   currentGitRemote:
     name: FinalProjectRepo
     url: https://github.com/LinumGit/FinalProjectRepo.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: main
-    tracking: 
+    tracking: FinalProjectRepo/main
   currentConfigBranch:
     name: main
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: FinalProjectRepo
+      url: https://github.com/LinumGit/FinalProjectRepo.git
+    trackingBranch: main
   currentConfigRemote:
     name: FinalProjectRepo
     url: https://github.com/LinumGit/FinalProjectRepo.git

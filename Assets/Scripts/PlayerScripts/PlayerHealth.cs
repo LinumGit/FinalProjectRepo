@@ -39,7 +39,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if (collision.CompareTag("Enemy") && !isInmune)
         {
-            currentHealth -= collision.GetComponent<EnemyBehaviour>().damageGiven;
+            currentHealth -= collision.GetComponentInParent<EnemyBehaviour>().damageGiven;
             StartCoroutine(Inmunity());
 
             if (collision.transform.position.x > transform.position.x)
@@ -57,6 +57,11 @@ public class PlayerHealth : MonoBehaviour
                 print("Player mort");
             }
         }
+    }
+
+    public void takeDamage(int damage)
+    {
+        //currentHealth -= damage;
     }
 
     IEnumerator Inmunity()
