@@ -18,6 +18,7 @@ public class EnemyBehaviour : MonoBehaviour
     public float attackForceX;
     public float damageGiven = 10;
     public Collider2D hitbox;
+    public float xpGiven;
     #endregion
 
     #region Private Variables
@@ -54,7 +55,6 @@ public class EnemyBehaviour : MonoBehaviour
     void Update()
     {
         
-        Debug.Log("inrange= " + inRange + " target= " +target);
         if (!attackMode)
         {
             Move();
@@ -109,6 +109,7 @@ public class EnemyBehaviour : MonoBehaviour
         GetComponent<Rigidbody2D>().gravityScale = 0;
         GetComponentInChildren<Canvas>().enabled = false;
         hitbox.enabled = false;
+        XpScript.instance.expModifyer(GetComponent<EnemyBehaviour>().xpGiven);
         Destroy(gameObject, 10);
     }
 

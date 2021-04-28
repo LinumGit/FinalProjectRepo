@@ -31,7 +31,7 @@ public class PlayerCombat : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
         foreach(Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponentInParent<EnemyBehaviour>().takeDamage(attackDamage);
+            enemy.GetComponent<EnemyHealth>().takeDamage(attackDamage);
             Debug.Log("We hit " + enemy.name);
         }
     }

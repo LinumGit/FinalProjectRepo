@@ -11,7 +11,7 @@ public class ArrowDamage : MonoBehaviour
     {
         if (collision.CompareTag("Enemy"))
         {
-            collision.GetComponent<EnemyBehaviour>().takeDamage(arrowDamage);
+            collision.GetComponent<EnemyHealth>().takeDamage(arrowDamage);
         }
     }
 }
