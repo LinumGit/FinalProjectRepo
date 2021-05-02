@@ -12,6 +12,13 @@ public class ArrowDamage : MonoBehaviour
         if (collision.CompareTag("Enemy"))
         {
             collision.GetComponent<EnemyHealth>().takeDamage(arrowDamage);
+            StartCoroutine(selfDestruct());
         }
+    }
+
+    IEnumerator selfDestruct()
+    {
+        yield return new WaitForSeconds(3f);
+        Destroy(gameObject);
     }
 }

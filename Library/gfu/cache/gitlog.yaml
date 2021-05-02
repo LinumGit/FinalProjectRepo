@@ -13,9 +13,279 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-04-28T12:17:39.226+02:00
-  initializedAtString: 2021-04-28T10:41:13.486+02:00
+  lastUpdatedAtString: 2021-05-02T22:00:16.763+02:00
+  initializedAtString: 2021-05-02T21:00:00.842+02:00
   log:
+  - commitID: d47db65733a41bc8ca6917c669f418a94be6e183
+    mergeA: 
+    mergeB: 
+    authorName: Linum
+    authorEmail: mcp2m@hotmail.com
+    commitEmail: mcp2m@hotmail.com
+    commitName: Linum
+    summary: New EnemyBehaviour
+    description: 
+    timeString: 2021-04-28T12:44:52.000+02:00
+    commitTimeString: 2021-04-28T12:44:52.000+02:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\NewEnemy\Enemy.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\NewEnemy\Enemy.controller
+      projectPath: Assets\Animations\NewEnemy\Enemy.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\Death.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Player\Death.anim
+      projectPath: Assets\Animations\Player\Death.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\idle-1.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Player\idle-1.controller
+      projectPath: Assets\Animations\Player\idle-1.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\Skeleton\Enemy1Walk.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Skeleton\Enemy1Walk.anim
+      projectPath: Assets\Animations\Skeleton\Enemy1Walk.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\Skeleton\SkeletonIdle.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Skeleton\SkeletonIdle.anim
+      projectPath: Assets\Animations\Skeleton\SkeletonIdle.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\Skeleton_Attack.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Skeleton_Attack.anim
+      projectPath: Assets\Animations\Skeleton_Attack.anim
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\EnemyHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\EnemyHealth.cs
+      projectPath: Assets\EnemyHealth.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Materials\Obstacle.physicsMaterial2D
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Materials\Obstacle.physicsMaterial2D
+      projectPath: Assets\Materials\Obstacle.physicsMaterial2D
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Prefabs\Enemy.prefab
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Prefabs\Enemy.prefab
+      projectPath: Assets\Prefabs\Enemy.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Enemy.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Enemy.cs
+      projectPath: Assets\Scripts\Enemy.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\EnemyMovement.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\EnemyMovement.cs
+      projectPath: Assets\Scripts\EnemyMovement.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\ArrowDamage.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\ArrowDamage.cs
+      projectPath: Assets\Scripts\Items\ArrowDamage.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\WeaponDamage.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\WeaponDamage.cs
+      projectPath: Assets\Scripts\Items\WeaponDamage.cs
+      originalPath: Assets\WeaponDamage.cs
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerCombat.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerCombat.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerCombat.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\XpScript.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\XpScript.cs
+      projectPath: Assets\Scripts\PlayerScripts\XpScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs
+      projectPath: Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\319bc5-332ff36f76084ad4c8.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\Hierarchy\319bc5-332ff36f76084ad4c8.json
+      projectPath: Library\StateCache\Hierarchy\319bc5-332ff36f76084ad4c8.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\319bc5-7527419a121c9b04eb.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\Hierarchy\319bc5-7527419a121c9b04eb.json
+      projectPath: Library\StateCache\Hierarchy\319bc5-7527419a121c9b04eb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ce14a0-332ff36f76084ad4c8.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\ce14a0-332ff36f76084ad4c8.json
+      projectPath: Library\StateCache\SceneView\ce14a0-332ff36f76084ad4c8.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\ce14a0-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\ce14a0-mainStage.json
+      projectPath: Library\StateCache\SceneView\ce14a0-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d3c6d5-332ff36f76084ad4c8.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\d3c6d5-332ff36f76084ad4c8.json
+      projectPath: Library\StateCache\SceneView\d3c6d5-332ff36f76084ad4c8.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d3c6d5-7527419a121c9b04eb.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\d3c6d5-7527419a121c9b04eb.json
+      projectPath: Library\StateCache\SceneView\d3c6d5-7527419a121c9b04eb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\d3c6d5-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\d3c6d5-mainStage.json
+      projectPath: Library\StateCache\SceneView\d3c6d5-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\db5b11-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\db5b11-mainStage.json
+      projectPath: Library\StateCache\SceneView\db5b11-mainStage.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 948bf6e703848c00b8c7c68c1bf9889b57588094
     mergeA: 
     mergeB: 
