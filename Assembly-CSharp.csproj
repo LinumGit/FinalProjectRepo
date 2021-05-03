@@ -80,6 +80,8 @@
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\SubWeapons.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\XpScript.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\UICamera.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\HealthBarBehaviour.cs" />

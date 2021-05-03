@@ -11,10 +11,19 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb2D;
     private Animator myAnimator;
 
+    public static PlayerMovement instance;
+
     private bool facingRight = true;
 
     public float speed = 2.0f;
     public float horizontalMovement;
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+    }
 
     private void Start()
     {
