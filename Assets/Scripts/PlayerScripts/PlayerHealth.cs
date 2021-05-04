@@ -12,6 +12,7 @@ public class PlayerHealth : MonoBehaviour
     public float inmunityTime;
     public Image healthImg;
     public float knockbackForce;
+    public GameObject gameOver;
 
     //Private variables
     Rigidbody2D rb;
@@ -20,6 +21,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Start()
     {
+        gameOver.SetActive(false);
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
         material = GetComponent<Blink>();
@@ -61,6 +63,9 @@ public class PlayerHealth : MonoBehaviour
             if (currentHealth <= 0)
             {
                 AudioManager.instance.playAudio(AudioManager.instance.playerDeath);
+                Time.timeScale = 0;
+                AudioManager.instance.bgMusic.Stop();
+                gameOver.SetActive(true);
                 print("Player mort");
             }
         }

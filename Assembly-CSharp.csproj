@@ -64,17 +64,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\EnemyAttack.cs" />
-    <Compile Include="Assets\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Effects\Blink.cs" />
-    <Compile Include="Assets\Scripts\Enemy.cs" />
-    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\Items\ArrowDamage.cs" />
     <Compile Include="Assets\Scripts\Items\Collectible.cs" />
     <Compile Include="Assets\Scripts\Items\Potions.cs" />
     <Compile Include="Assets\Scripts\Items\SelfDestruct.cs" />
     <Compile Include="Assets\Scripts\Items\SubItems.cs" />
     <Compile Include="Assets\Scripts\Items\WeaponDamage.cs" />
+    <Compile Include="Assets\Scripts\MainMenu\MainMenuScript.cs" />
+    <Compile Include="Assets\Scripts\NewEnemyBehaviour\Enemy.cs" />
+    <Compile Include="Assets\Scripts\NewEnemyBehaviour\EnemyAttack.cs" />
+    <Compile Include="Assets\Scripts\NewEnemyBehaviour\EnemyHealth.cs" />
+    <Compile Include="Assets\Scripts\NewEnemyBehaviour\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerJump.cs" />
