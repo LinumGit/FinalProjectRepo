@@ -86,6 +86,7 @@
     <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossHealth.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\FlameAttack.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\UICamera.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\HealthBarBehaviour.cs" />

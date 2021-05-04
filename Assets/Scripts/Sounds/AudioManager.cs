@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.Audio;
 
 public class AudioManager : MonoBehaviour
@@ -11,7 +12,9 @@ public class AudioManager : MonoBehaviour
     public AudioSource arrow, hit, flame, potion, playerDeath, skeletonDeath, arrowGet, playerHit, bgMusic,
         bossDeath, bossHit;
 
+    [Range(-80, 10)]
     public float masterVol, effectsVol;
+    public Slider masterSlider, effectSlider;
 
     public static AudioManager instance;
 
@@ -22,13 +25,20 @@ public class AudioManager : MonoBehaviour
             instance = this;
         }
     }
-    // Start is called before the first frame update
+    
     void Start()
     {
         playAudio(bgMusic);
+        masterSlider.value = masterVol;
+        effectSlider.value = effectsVol;
+
+        masterSlider.minValue = -80;
+        masterSlider.maxValue = 10;
+
+        effectSlider.minValue = -80;
+        effectSlider.maxValue = 10;
     }
 
-    // Update is called once per frame
     void Update()
     {
         masterVolume();
@@ -37,12 +47,12 @@ public class AudioManager : MonoBehaviour
 
     public void masterVolume()
     {
-        musicMixer.SetFloat("masterVolume", masterVol);
+        musicMixer.SetFloat("masterVolume", masterSlider.value);
     }
 
     public void effectsVolume()
     {
-        effectsMixer.SetFloat("effectsVolume", effectsVol);
+        effectsMixer.SetFloat("effectsVolume", effectSlider.value);
     }
 
     public void playAudio(AudioSource audio)

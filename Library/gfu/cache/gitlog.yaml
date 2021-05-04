@@ -13,9 +13,508 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-04T17:28:22.216+02:00
-  initializedAtString: 2021-05-04T15:24:48.161+02:00
+  lastUpdatedAtString: 2021-05-04T18:46:22.512+02:00
+  initializedAtString: 2021-05-04T18:46:22.512+02:00
   log:
+  - commitID: a8bafd86c891d38061de633991a6726df8f723ad
+    mergeA: 
+    mergeB: 
+    authorName: Linum
+    authorEmail: mcp2m@hotmail.com
+    commitEmail: mcp2m@hotmail.com
+    commitName: Linum
+    summary: Audio I
+    description: 
+    timeString: 2021-05-04T17:57:48.000+02:00
+    commitTimeString: 2021-05-04T17:57:48.000+02:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\EnemyHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\EnemyHealth.cs
+      projectPath: Assets\EnemyHealth.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\ArrowDamage.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\ArrowDamage.cs
+      projectPath: Assets\Scripts\Items\ArrowDamage.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\Collectible.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\Collectible.cs
+      projectPath: Assets\Scripts\Items\Collectible.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\Potions.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\Potions.cs
+      projectPath: Assets\Scripts\Items\Potions.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\SubWeapons.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\SubWeapons.cs
+      projectPath: Assets\Scripts\PlayerScripts\SubWeapons.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Sounds\AudioManager.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Sounds\AudioManager.cs
+      projectPath: Assets\Scripts\Sounds\AudioManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\AlienDeath.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\AlienDeath.mp3
+      projectPath: Assets\Sounds\AlienDeath.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Ambient Game Over 005.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Ambient Game Over
+        005.mp3
+      projectPath: Assets\Sounds\Ambient Game Over 005.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_135.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_135.mp3
+      projectPath: Assets\Sounds\Coin_135.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_187.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_187.mp3
+      projectPath: Assets\Sounds\Coin_187.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_195.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_195.mp3
+      projectPath: Assets\Sounds\Coin_195.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_208.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_208.mp3
+      projectPath: Assets\Sounds\Coin_208.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_27.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_27.mp3
+      projectPath: Assets\Sounds\Coin_27.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_28.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_28.mp3
+      projectPath: Assets\Sounds\Coin_28.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_81.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_81.mp3
+      projectPath: Assets\Sounds\Coin_81.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coin_82.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coin_82.mp3
+      projectPath: Assets\Sounds\Coin_82.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Coins.ogg
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Coins.ogg
+      projectPath: Assets\Sounds\Coins.ogg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Defeated 095.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Defeated 095.mp3
+      projectPath: Assets\Sounds\Defeated 095.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Effects.mixer
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Effects.mixer
+      projectPath: Assets\Sounds\Effects.mixer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit013.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit013.mp3
+      projectPath: Assets\Sounds\Hit013.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit030.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit030.mp3
+      projectPath: Assets\Sounds\Hit030.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit031.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit031.mp3
+      projectPath: Assets\Sounds\Hit031.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit033.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit033.mp3
+      projectPath: Assets\Sounds\Hit033.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit037.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit037.mp3
+      projectPath: Assets\Sounds\Hit037.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit038.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit038.mp3
+      projectPath: Assets\Sounds\Hit038.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit041.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit041.mp3
+      projectPath: Assets\Sounds\Hit041.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit045.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit045.mp3
+      projectPath: Assets\Sounds\Hit045.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit133.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit133.mp3
+      projectPath: Assets\Sounds\Hit133.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit134.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit134.mp3
+      projectPath: Assets\Sounds\Hit134.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit136.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit136.mp3
+      projectPath: Assets\Sounds\Hit136.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit182.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit182.mp3
+      projectPath: Assets\Sounds\Hit182.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit194.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit194.mp3
+      projectPath: Assets\Sounds\Hit194.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit224.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit224.mp3
+      projectPath: Assets\Sounds\Hit224.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Hit247.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Hit247.mp3
+      projectPath: Assets\Sounds\Hit247.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\ManDie.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\ManDie.mp3
+      projectPath: Assets\Sounds\ManDie.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\ManDie1.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\ManDie1.mp3
+      projectPath: Assets\Sounds\ManDie1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\MegaDeath.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\MegaDeath.mp3
+      projectPath: Assets\Sounds\MegaDeath.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\MonsterDeath.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\MonsterDeath.mp3
+      projectPath: Assets\Sounds\MonsterDeath.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\MonsterDeath1.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\MonsterDeath1.mp3
+      projectPath: Assets\Sounds\MonsterDeath1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\MonsterDeath2.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\MonsterDeath2.mp3
+      projectPath: Assets\Sounds\MonsterDeath2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\MonsterDeath3.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\MonsterDeath3.mp3
+      projectPath: Assets\Sounds\MonsterDeath3.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Music.mixer
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Music.mixer
+      projectPath: Assets\Sounds\Music.mixer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\QuickDeath.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\QuickDeath.mp3
+      projectPath: Assets\Sounds\QuickDeath.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\QuickDeath1.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\QuickDeath1.mp3
+      projectPath: Assets\Sounds\QuickDeath1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\QuickDeath2.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\QuickDeath2.mp3
+      projectPath: Assets\Sounds\QuickDeath2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\QuickDeath3.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\QuickDeath3.mp3
+      projectPath: Assets\Sounds\QuickDeath3.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Star1.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Star1.mp3
+      projectPath: Assets\Sounds\Star1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Star2.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Star2.mp3
+      projectPath: Assets\Sounds\Star2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Star3.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Star3.mp3
+      projectPath: Assets\Sounds\Star3.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Sucsess.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Sucsess.mp3
+      projectPath: Assets\Sounds\Sucsess.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Sucsess1.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Sucsess1.mp3
+      projectPath: Assets\Sounds\Sucsess1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Sucsess2.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Sucsess2.mp3
+      projectPath: Assets\Sounds\Sucsess2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\SuperCoin.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\SuperCoin.mp3
+      projectPath: Assets\Sounds\SuperCoin.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\SuperCoin1.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\SuperCoin1.mp3
+      projectPath: Assets\Sounds\SuperCoin1.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\SuperCoin2.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\SuperCoin2.mp3
+      projectPath: Assets\Sounds\SuperCoin2.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\TinyDeath.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\TinyDeath.mp3
+      projectPath: Assets\Sounds\TinyDeath.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\TinyMonsterDeath.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\TinyMonsterDeath.mp3
+      projectPath: Assets\Sounds\TinyMonsterDeath.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Waltz Of The Dead.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Waltz Of The Dead.mp3
+      projectPath: Assets\Sounds\Waltz Of The Dead.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\dead.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\dead.mp3
+      projectPath: Assets\Sounds\dead.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\shooting133.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\shooting133.mp3
+      projectPath: Assets\Sounds\shooting133.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\shooting134.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\shooting134.mp3
+      projectPath: Assets\Sounds\shooting134.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\the-thing-soundtrack-cover-no-copyright.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\the-thing-soundtrack-cover-no-copyright.mp3
+      projectPath: Assets\Sounds\the-thing-soundtrack-cover-no-copyright.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\db5b11-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\db5b11-mainStage.json
+      projectPath: Library\StateCache\SceneView\db5b11-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 0af513d1f4e85918a6f68ef997be4beeeedfdd06
     mergeA: 
     mergeB: 
