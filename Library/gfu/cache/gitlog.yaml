@@ -13,9 +13,747 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-04T11:12:33.592+02:00
-  initializedAtString: 2021-05-04T09:12:29.224+02:00
+  lastUpdatedAtString: 2021-05-04T17:28:22.216+02:00
+  initializedAtString: 2021-05-04T15:24:48.161+02:00
   log:
+  - commitID: 0af513d1f4e85918a6f68ef997be4beeeedfdd06
+    mergeA: 
+    mergeB: 
+    authorName: Linum
+    authorEmail: mcp2m@hotmail.com
+    commitEmail: mcp2m@hotmail.com
+    commitName: Linum
+    summary: Finished Boss Scene
+    description: 
+    timeString: 2021-05-04T11:37:04.000+02:00
+    commitTimeString: 2021-05-04T11:37:04.000+02:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\BossDeath.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\BossDeath.anim
+      projectPath: Assets\Animations\Boss1\BossDeath.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\BossShoot.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\BossShoot.anim
+      projectPath: Assets\Animations\Boss1\BossShoot.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\GhostIdle.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\GhostIdle.anim
+      projectPath: Assets\Animations\Boss1\GhostIdle.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\diamond-01.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\diamond-01.controller
+      projectPath: Assets\Animations\Boss1\diamond-01.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\enemy-death-1.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\enemy-death-1.controller
+      projectPath: Assets\Animations\Boss1\enemy-death-1.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\enemy-death-2.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\enemy-death-2.controller
+      projectPath: Assets\Animations\Boss1\enemy-death-2.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\ghost-halo-1.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\ghost-halo-1.controller
+      projectPath: Assets\Animations\Boss1\ghost-halo-1.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Player\idle-1.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Player\idle-1.controller
+      projectPath: Assets\Animations\Player\idle-1.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\EnemyHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\EnemyHealth.cs
+      projectPath: Assets\EnemyHealth.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\background.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\background.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\graveyard.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\graveyard.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\graveyard.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\mountains.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\mountains.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\mountains.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\objects-Sheet.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\objects-Sheet.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\objects-Sheet.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\bush-large.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\bush-large.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\bush-large.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\bush-small.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\bush-small.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\bush-small.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\statue.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\statue.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\statue.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\stone-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\sliced-objects\tree-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\tileset-sliced.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\tileset-sliced.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\tileset-sliced.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Environment\tileset.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Environment\tileset.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Environment\tileset.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\enemy-death\enemy-death-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost-halo\ghost-halo-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\ghost\ghost-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hell-gato\hell-gato-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-attack\hero-attack-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-crouch\hero-crouch.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-crouch\hero-crouch.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-crouch\hero-crouch.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-hurt\hero-hurt.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-hurt\hero-hurt.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-hurt\hero-hurt.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-idle\hero-idle-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-jump\hero-jump-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-6.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-6.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\hero\hero-run\hero-run-6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-6.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-6.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-7.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-7.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-8.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-8.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-clothed\skeleton-clothed-8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-6.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-6.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise-clothed\skeleton-rise-clothed-6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-6.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-6.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton-rise\skeleton-rise-6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-1.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-1.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-2.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-2.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-3.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-3.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-4.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-4.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-5.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-5.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-5.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-6.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-6.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-6.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-7.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-7.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-7.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-8.png
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-8.png
+      projectPath: Assets\Gothicvania Cemetery Artwork\Sprites\skeleton\skeleton-8.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Gothicvania Cemetery Artwork\about.txt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Gothicvania Cemetery Artwork\about.txt
+      projectPath: Assets\Gothicvania Cemetery Artwork\about.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Items\SubWeapons\Arrow.prefab
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Items\SubWeapons\Arrow.prefab
+      projectPath: Assets\Items\SubWeapons\Arrow.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Items\SubWeapons\Flame.prefab
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Items\SubWeapons\Flame.prefab
+      projectPath: Assets\Items\SubWeapons\Flame.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\BossDeadEffect.prefab
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Prefabs\BossDeadEffect.prefab
+      projectPath: Assets\Prefabs\BossDeadEffect.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Enemy.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Enemy.cs
+      projectPath: Assets\Scripts\Enemy.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\ArrowDamage.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\ArrowDamage.cs
+      projectPath: Assets\Scripts\Items\ArrowDamage.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\SelfDestruct.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\SelfDestruct.cs
+      projectPath: Assets\Scripts\Items\SelfDestruct.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerCombat.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerCombat.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerCombat.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossHealth.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossHealth.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\FlameAttack.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\FlameAttack.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\FlameAttack.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\319bc5-009a5f0058acd2a4cb.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\Hierarchy\319bc5-009a5f0058acd2a4cb.json
+      projectPath: Library\StateCache\Hierarchy\319bc5-009a5f0058acd2a4cb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\db5b11-009a5f0058acd2a4cb.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\db5b11-009a5f0058acd2a4cb.json
+      projectPath: Library\StateCache\SceneView\db5b11-009a5f0058acd2a4cb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\db5b11-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\db5b11-mainStage.json
+      projectPath: Library\StateCache\SceneView\db5b11-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: db4850ac258934330714b187fa16b782ff9cf3e6
     mergeA: 
     mergeB: 

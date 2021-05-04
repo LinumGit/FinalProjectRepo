@@ -61,6 +61,7 @@ public class BossBehaviour : MonoBehaviour
     public void damageBoss()
     {
         currentHealth = GetComponent<Enemy>().healthPoints;
+        AudioManager.instance.playAudio(AudioManager.instance.bossHit);
         healthImg.fillAmount = currentHealth / bossHealth;
 
         if(currentHealth <= 0)

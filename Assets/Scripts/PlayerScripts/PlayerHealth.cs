@@ -41,6 +41,11 @@ public class PlayerHealth : MonoBehaviour
         {
             
             currentHealth -= collision.GetComponent<Enemy>().damageGiven;
+            if (currentHealth > 0)
+            {
+                AudioManager.instance.playAudio(AudioManager.instance.playerHit);
+            }
+            
             StartCoroutine(Inmunity());
 
             if (collision.transform.position.x > transform.position.x)
@@ -55,6 +60,7 @@ public class PlayerHealth : MonoBehaviour
 
             if (currentHealth <= 0)
             {
+                AudioManager.instance.playAudio(AudioManager.instance.playerDeath);
                 print("Player mort");
             }
         }

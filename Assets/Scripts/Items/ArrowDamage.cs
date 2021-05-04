@@ -11,7 +11,13 @@ public class ArrowDamage : MonoBehaviour
     {
         if (collision.CompareTag("Enemy"))
         {
-            collision.GetComponent<EnemyHealth>().takeDamage(arrowDamage);
+            Debug.Log(collision.name);
+            if (collision.name.Contains("Boss"))
+            {
+                collision.GetComponent<BossHealth>().takeDamage(arrowDamage);
+            } else {
+                collision.GetComponent<EnemyHealth>().takeDamage(arrowDamage);
+            }            
         }
     }
 }

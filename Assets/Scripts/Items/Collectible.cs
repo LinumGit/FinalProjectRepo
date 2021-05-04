@@ -10,6 +10,7 @@ public class Collectible : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            AudioManager.instance.playAudio(AudioManager.instance.arrowGet);
             SubItems.instance.subItem(arrowsToGive);
             Destroy(gameObject);
         }

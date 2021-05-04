@@ -16,6 +16,7 @@ public class SubWeapons : MonoBehaviour
     {
         if (Input.GetKeyDown("e") && SubItems.instance.subItemAmount > 0 )
         {
+            AudioManager.instance.playAudio(AudioManager.instance.arrow);
             GameObject subItem = Instantiate(arrow, transform.position, Quaternion.Euler(0,0, -46));
             if (transform.localScale.x < 0)
             {

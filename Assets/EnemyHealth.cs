@@ -25,6 +25,7 @@ public class EnemyHealth : MonoBehaviour
     public void takeDamage(float damage)
     {
         enemy.healthPoints -= damage;
+        AudioManager.instance.playAudio(AudioManager.instance.hit);
         anim.SetTrigger("Hurt");
 
         if(enemy.healthPoints <= 0)
@@ -41,6 +42,7 @@ public class EnemyHealth : MonoBehaviour
         enemy.GetComponent<EnemyMovement>().enabled = false;
         enemy.GetComponent<CircleCollider2D>().enabled = false;
         enemy.GetComponent<BoxCollider2D>().enabled = false;
+        AudioManager.instance.playAudio(AudioManager.instance.skeletonDeath);
         //StartCoroutine(selfDestruct());
     }
 

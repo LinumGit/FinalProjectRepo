@@ -14,6 +14,7 @@ public class Potions : MonoBehaviour
             if(collision.GetComponent<PlayerHealth>().currentHealth < collision.GetComponent<PlayerHealth>().maxHealth)
             {
                 collision.GetComponent<PlayerHealth>().currentHealth += healthToGive;
+                AudioManager.instance.playAudio(AudioManager.instance.potion);
                 Destroy(gameObject);
             }
         }
