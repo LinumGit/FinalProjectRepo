@@ -72,6 +72,7 @@
     <Compile Include="Assets\Scripts\Items\ArrowDamage.cs" />
     <Compile Include="Assets\Scripts\Items\Collectible.cs" />
     <Compile Include="Assets\Scripts\Items\Potions.cs" />
+    <Compile Include="Assets\Scripts\Items\SelfDestruct.cs" />
     <Compile Include="Assets\Scripts\Items\SubItems.cs" />
     <Compile Include="Assets\Scripts\Items\WeaponDamage.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerCombat.cs" />
@@ -81,11 +82,15 @@
     <Compile Include="Assets\Scripts\PlayerScripts\SubWeapons.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\XpScript.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossBehaviour.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossHealth.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs" />
+    <Compile Include="Assets\Scripts\SceneScripts\LVL1_BOSS\FlameAttack.cs" />
     <Compile Include="Assets\Scripts\SceneScripts\UICamera.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\EnemyBehaviour.cs" />
     <Compile Include="Assets\Scripts\SkeletonScripts\HealthBarBehaviour.cs" />
     <Compile Include="Assets\Scripts\Traps\DamagingSpike.cs" />
+    <None Include="Assets\Gothicvania Cemetery Artwork\about.txt" />
     <None Include="Assets\Hero and Opponents\license.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

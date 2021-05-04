@@ -9,6 +9,7 @@ public class Enemy : MonoBehaviour
     public float speed;
     public float damageGiven;
 
+
     void Start()
     {
         

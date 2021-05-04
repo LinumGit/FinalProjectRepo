@@ -7,6 +7,7 @@ public class EnemyHealth : MonoBehaviour
     Enemy enemy;
     public Animator anim;
     public Rigidbody2D rb;
+
     void Start()
     {
         enemy = GetComponent<Enemy>();
