@@ -40,6 +40,7 @@ public class EnemyHealth : MonoBehaviour
             {
                 Die();
             }
+            XpScript.instance.expModifyer(enemy.xpGiven);
         }
 
         

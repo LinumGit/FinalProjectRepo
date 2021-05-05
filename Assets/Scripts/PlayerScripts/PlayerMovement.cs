@@ -15,6 +15,8 @@ public class PlayerMovement : MonoBehaviour
 
     private bool facingRight = true;
 
+    public GameObject startPoint;
+    public Transform transform;
     public float speed = 2.0f;
     public float horizontalMovement;
     private void Awake()
@@ -27,6 +29,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log(transform.position);
+        transform.position = new Vector2(PlayerPrefs.GetFloat("playerX", startPoint.transform.position.x),PlayerPrefs.GetFloat("playerY", startPoint.transform.position.y));
         rb2D = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
 
@@ -55,6 +59,12 @@ public class PlayerMovement : MonoBehaviour
             scale.x *= -1;
             transform.localScale = scale;
         }
+    }
+
+    public void savePosition()
+    {
+        DataManager.instance.savePositionX(transform.position.x);
+        DataManager.instance.savePositionY(transform.position.y);
     }
 
 }

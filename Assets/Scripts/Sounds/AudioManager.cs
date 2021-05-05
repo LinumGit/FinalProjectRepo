@@ -29,30 +29,35 @@ public class AudioManager : MonoBehaviour
     void Start()
     {
         playAudio(bgMusic);
-        masterSlider.value = masterVol;
-        effectSlider.value = effectsVol;
+        //masterSlider.value = masterVol;
+        //effectSlider.value = effectsVol;
 
         masterSlider.minValue = -80;
         masterSlider.maxValue = 10;
 
         effectSlider.minValue = -80;
         effectSlider.maxValue = 10;
+
+        masterSlider.value = PlayerPrefs.GetFloat("musicVolume", 0);
+        effectSlider.value = PlayerPrefs.GetFloat("sfxVolume", 0);
     }
 
     void Update()
     {
-        masterVolume();
-        effectsVolume();
+        //masterVolume();
+        //effectsVolume();
     }
 
     public void masterVolume()
     {
-        musicMixer.SetFloat("masterVolume", masterSlider.value);
+        DataManager.instance.musicData(masterSlider.value);
+        musicMixer.SetFloat("masterVolume", PlayerPrefs.GetFloat("musicVolume"));
     }
 
     public void effectsVolume()
     {
-        effectsMixer.SetFloat("effectsVolume", effectSlider.value);
+        DataManager.instance.SfxData(effectSlider.value);
+        effectsMixer.SetFloat("effectsVolume", PlayerPrefs.GetFloat("sfxVolume"));
     }
 
     public void playAudio(AudioSource audio)

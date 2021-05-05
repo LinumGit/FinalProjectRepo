@@ -20,13 +20,23 @@ public class PlayerHealth : MonoBehaviour
     Blink material;
     SpriteRenderer sprite;
 
+    public static PlayerHealth instance;
+
+    private void Awake()
+    {
+        if(instance == null)
+        {
+            instance = this;
+        }
+    }
+
     void Start()
     {
         gameOver.SetActive(false);
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
         material = GetComponent<Blink>();
-        currentHealth = maxHealth;
+        currentHealth = PlayerPrefs.GetFloat("playerHealth", maxHealth);
         if (!isDead)
         {
             gameOver.GetComponent<CanvasGroup>().alpha = 0.0f;
@@ -104,6 +114,11 @@ public class PlayerHealth : MonoBehaviour
                 gameOver.GetComponent<CanvasGroup>().alpha += 0.005f;
             }
         }
+    }
+
+    public void healthSave()
+    {
+        DataManager.instance.playerHealthData(currentHealth);
     }
 
 }

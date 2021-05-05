@@ -7,8 +7,10 @@ using UnityEngine.UI;
 public class XpScript : MonoBehaviour
 {
     public Image expImage;
+    public int lvl;
     public float currentExperience;
     public float expTNL;
+    public Text lvlString;
 
     public static XpScript instance;
 
@@ -23,6 +25,9 @@ public class XpScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        currentExperience = PlayerPrefs.GetFloat("experience", 0);
+        lvl = PlayerPrefs.GetInt("level", 0);
+        lvlString.text = lvl.ToString();
         expImage.fillAmount = currentExperience / expTNL;
     }
 
@@ -40,8 +45,16 @@ public class XpScript : MonoBehaviour
 
         if (currentExperience >= expTNL)
         {
+            lvl = lvl+1;
+            lvlString.text = lvl.ToString();
             expTNL = expTNL * 2;
             currentExperience = 0;
         }
+    }
+
+    public void saveXp()
+    {
+        DataManager.instance.xpData(currentExperience);
+        DataManager.instance.lvlData(lvl);
     }
 }

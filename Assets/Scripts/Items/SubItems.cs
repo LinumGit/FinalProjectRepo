@@ -20,12 +20,14 @@ public class SubItems : MonoBehaviour
 
     private void Start()
     {
+        subItemAmount = PlayerPrefs.GetInt("arrowsAmount", 0);
         subItemText.text = "x " + subItemAmount.ToString();
     }
 
     public void subItem(int newSubItemAmount)
     {
         subItemAmount += newSubItemAmount;
+        DataManager.instance.arrowsData(subItemAmount);
         subItemText.text = "x " + subItemAmount.ToString();
     }
 }

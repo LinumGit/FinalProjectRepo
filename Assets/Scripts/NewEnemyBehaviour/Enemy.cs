@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     public float speed;
     public float damageGiven;
     public bool shouldRespawn;
+    public float xpGiven;
 
 
     void Start()
