@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-04T21:23:08.151+02:00
-  initializedAtString: 2021-05-04T19:47:55.824+02:00
+  lastUpdatedAtString: 2021-05-05T13:05:30.577+02:00
+  initializedAtString: 2021-05-05T10:05:16.330+02:00
   entries:
   - path: Assembly-CSharp.csproj
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assembly-CSharp.csproj
@@ -22,45 +22,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Animations\Boss1\ghost-halo-1.controller
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\ghost-halo-1.controller
-    projectPath: Assets\Animations\Boss1\ghost-halo-1.controller
+  - path: Assets\Animations\NewEnemy\Enemy.controller
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\NewEnemy\Enemy.controller
+    projectPath: Assets\Animations\NewEnemy\Enemy.controller
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Animations\Menu\Settings.anim
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Menu\Settings.anim
-    projectPath: Assets\Animations\Menu\Settings.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animations\Menu\Settings.controller
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Menu\Settings.controller
-    projectPath: Assets\Animations\Menu\Settings.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animations\Menu\SettingsHide.anim
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Menu\SettingsHide.anim
-    projectPath: Assets\Animations\Menu\SettingsHide.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\EnemyAttack.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\EnemyAttack.cs
-    projectPath: Assets\EnemyAttack.cs
+  - path: Assets\Animations\Player\Death.anim
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Player\Death.anim
+    projectPath: Assets\Animations\Player\Death.anim
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\EnemyHealth.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\EnemyHealth.cs
-    projectPath: Assets\EnemyHealth.cs
+    workTreeStatus: 3
+  - path: Assets\Animations\Player\GameOver.controller
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Player\GameOver.controller
+    projectPath: Assets\Animations\Player\GameOver.controller
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\PlatformerSet1\gameOver.png
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\PlatformerSet1\gameOver.png
-    projectPath: Assets\PlatformerSet1\gameOver.png
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Animations\Skeleton\SkeletonRespawn.anim
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Skeleton\SkeletonRespawn.anim
+    projectPath: Assets\Animations\Skeleton\SkeletonRespawn.anim
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -68,71 +50,47 @@ MonoBehaviour:
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainMenu.unity
     projectPath: Assets\Scenes\MainMenu.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\MainScene.unity
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainScene.unity
     projectPath: Assets\Scenes\MainScene.unity
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\SampleScene.unity
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\SampleScene.unity
-    projectPath: Assets\Scenes\SampleScene.unity
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\Enemy.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Enemy.cs
-    projectPath: Assets\Scripts\Enemy.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\EnemyMovement.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\EnemyMovement.cs
-    projectPath: Assets\Scripts\EnemyMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\MainMenu\MainMenuScript.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\MainMenu\MainMenuScript.cs
-    projectPath: Assets\Scripts\MainMenu\MainMenuScript.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 3
   - path: Assets\Scripts\NewEnemyBehaviour\Enemy.cs
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\NewEnemyBehaviour\Enemy.cs
     projectPath: Assets\Scripts\NewEnemyBehaviour\Enemy.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\NewEnemyBehaviour\EnemyAttack.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\NewEnemyBehaviour\EnemyAttack.cs
-    projectPath: Assets\Scripts\NewEnemyBehaviour\EnemyAttack.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\NewEnemyBehaviour\EnemyHealth.cs
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\NewEnemyBehaviour\EnemyHealth.cs
     projectPath: Assets\Scripts\NewEnemyBehaviour\EnemyHealth.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scripts\NewEnemyBehaviour\EnemyMovement.cs
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\NewEnemyBehaviour\EnemyMovement.cs
     projectPath: Assets\Scripts\NewEnemyBehaviour\EnemyMovement.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\NewEnemyBehaviour\ParentDestroy.cs
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\NewEnemyBehaviour\ParentDestroy.cs
+    projectPath: Assets\Scripts\NewEnemyBehaviour\ParentDestroy.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\NewEnemyBehaviour\RespawnScript.cs
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\NewEnemyBehaviour\RespawnScript.cs
+    projectPath: Assets\Scripts\NewEnemyBehaviour\RespawnScript.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Assets\Scripts\PlayerScripts\PlayerHealth.cs
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerHealth.cs
     projectPath: Assets\Scripts\PlayerScripts\PlayerHealth.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Sounds\AudioManager.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Sounds\AudioManager.cs
-    projectPath: Assets\Scripts\Sounds\AudioManager.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -148,12 +106,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorUserBuildSettings.asset
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\EditorUserBuildSettings.asset
-    projectPath: Library\EditorUserBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -196,12 +148,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -226,12 +172,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -244,93 +184,213 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0047025b27806fc499b5f907578c7c4f
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0047025b27806fc499b5f907578c7c4f
-    projectPath: Temp\UnityTempFile-0047025b27806fc499b5f907578c7c4f
+  - path: Temp\UnityTempFile-02b594d2601b91241bdacb791e6f2673
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-02b594d2601b91241bdacb791e6f2673
+    projectPath: Temp\UnityTempFile-02b594d2601b91241bdacb791e6f2673
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-29f942417fb48f242858e95fcf424dd0
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-29f942417fb48f242858e95fcf424dd0
-    projectPath: Temp\UnityTempFile-29f942417fb48f242858e95fcf424dd0
+  - path: Temp\UnityTempFile-0a9c1e4d6e086ad4fb62fc249115760d
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0a9c1e4d6e086ad4fb62fc249115760d
+    projectPath: Temp\UnityTempFile-0a9c1e4d6e086ad4fb62fc249115760d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2d826281406a97f49837a6e91773a660
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-2d826281406a97f49837a6e91773a660
-    projectPath: Temp\UnityTempFile-2d826281406a97f49837a6e91773a660
+  - path: Temp\UnityTempFile-0c2a814148d035f4ca0894be98b70a9b
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0c2a814148d035f4ca0894be98b70a9b
+    projectPath: Temp\UnityTempFile-0c2a814148d035f4ca0894be98b70a9b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-690b63031b35a644387f22c4d400d9fe
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-690b63031b35a644387f22c4d400d9fe
-    projectPath: Temp\UnityTempFile-690b63031b35a644387f22c4d400d9fe
+  - path: Temp\UnityTempFile-0df0f58096b2f784b9192e3ba4475081
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0df0f58096b2f784b9192e3ba4475081
+    projectPath: Temp\UnityTempFile-0df0f58096b2f784b9192e3ba4475081
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-75cab7abb2493a940b534b8a6141f273
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-75cab7abb2493a940b534b8a6141f273
-    projectPath: Temp\UnityTempFile-75cab7abb2493a940b534b8a6141f273
+  - path: Temp\UnityTempFile-1abb98c3f77a3f24da5840ea1825be74
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-1abb98c3f77a3f24da5840ea1825be74
+    projectPath: Temp\UnityTempFile-1abb98c3f77a3f24da5840ea1825be74
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-769b459571e55314ab3b50c91c0e9ec7
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-769b459571e55314ab3b50c91c0e9ec7
-    projectPath: Temp\UnityTempFile-769b459571e55314ab3b50c91c0e9ec7
+  - path: Temp\UnityTempFile-1c5e0ecedddbd3747807a5a9f38530fb
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-1c5e0ecedddbd3747807a5a9f38530fb
+    projectPath: Temp\UnityTempFile-1c5e0ecedddbd3747807a5a9f38530fb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-80156f26cc563cc4fa7af927214242d5
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-80156f26cc563cc4fa7af927214242d5
-    projectPath: Temp\UnityTempFile-80156f26cc563cc4fa7af927214242d5
+  - path: Temp\UnityTempFile-1ecb86257207d12449a8064f9457edfa
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-1ecb86257207d12449a8064f9457edfa
+    projectPath: Temp\UnityTempFile-1ecb86257207d12449a8064f9457edfa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-87a0245800c60c447b1d03f78f957e92
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-87a0245800c60c447b1d03f78f957e92
-    projectPath: Temp\UnityTempFile-87a0245800c60c447b1d03f78f957e92
+  - path: Temp\UnityTempFile-258062db53579b74a95af91f50a77f56
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-258062db53579b74a95af91f50a77f56
+    projectPath: Temp\UnityTempFile-258062db53579b74a95af91f50a77f56
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a3b6fb0be9aa51e4fa6a55523624575c
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-a3b6fb0be9aa51e4fa6a55523624575c
-    projectPath: Temp\UnityTempFile-a3b6fb0be9aa51e4fa6a55523624575c
+  - path: Temp\UnityTempFile-25c4445f640f5ac4e8ad92bf59b2bd71
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-25c4445f640f5ac4e8ad92bf59b2bd71
+    projectPath: Temp\UnityTempFile-25c4445f640f5ac4e8ad92bf59b2bd71
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a541f7146aae13a4cb04484786a00784
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-a541f7146aae13a4cb04484786a00784
-    projectPath: Temp\UnityTempFile-a541f7146aae13a4cb04484786a00784
+  - path: Temp\UnityTempFile-306d710726b271442a5e5648f5324979
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-306d710726b271442a5e5648f5324979
+    projectPath: Temp\UnityTempFile-306d710726b271442a5e5648f5324979
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-a95158aff87d21a499b876d3d9b68888
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-a95158aff87d21a499b876d3d9b68888
-    projectPath: Temp\UnityTempFile-a95158aff87d21a499b876d3d9b68888
+  - path: Temp\UnityTempFile-393f1991c787ab545b3f9b5bf1fbd090
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-393f1991c787ab545b3f9b5bf1fbd090
+    projectPath: Temp\UnityTempFile-393f1991c787ab545b3f9b5bf1fbd090
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b3f2d3af48d95314790dddfce18f8641
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-b3f2d3af48d95314790dddfce18f8641
-    projectPath: Temp\UnityTempFile-b3f2d3af48d95314790dddfce18f8641
+  - path: Temp\UnityTempFile-3e89377e5032bf24fae3c039d4280e81
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-3e89377e5032bf24fae3c039d4280e81
+    projectPath: Temp\UnityTempFile-3e89377e5032bf24fae3c039d4280e81
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c08af09c4087890479253654791a333a
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c08af09c4087890479253654791a333a
-    projectPath: Temp\UnityTempFile-c08af09c4087890479253654791a333a
+  - path: Temp\UnityTempFile-4bde0e9095a646848a1665801792a51c
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-4bde0e9095a646848a1665801792a51c
+    projectPath: Temp\UnityTempFile-4bde0e9095a646848a1665801792a51c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c4374d91124bbe14691f2a9d6c45ed12
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c4374d91124bbe14691f2a9d6c45ed12
-    projectPath: Temp\UnityTempFile-c4374d91124bbe14691f2a9d6c45ed12
+  - path: Temp\UnityTempFile-548d3f68bce3aff46bc3ad6a1648474c
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-548d3f68bce3aff46bc3ad6a1648474c
+    projectPath: Temp\UnityTempFile-548d3f68bce3aff46bc3ad6a1648474c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ece3df478d94c5e46a39a57232e150f5
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-ece3df478d94c5e46a39a57232e150f5
-    projectPath: Temp\UnityTempFile-ece3df478d94c5e46a39a57232e150f5
+  - path: Temp\UnityTempFile-579badd5aabc1b24a8643c04621fbf78
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-579badd5aabc1b24a8643c04621fbf78
+    projectPath: Temp\UnityTempFile-579badd5aabc1b24a8643c04621fbf78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-583f18483fe17ad4294f9c07857671b5
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-583f18483fe17ad4294f9c07857671b5
+    projectPath: Temp\UnityTempFile-583f18483fe17ad4294f9c07857671b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6567f9e5b19f295428496b18c05df7fb
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-6567f9e5b19f295428496b18c05df7fb
+    projectPath: Temp\UnityTempFile-6567f9e5b19f295428496b18c05df7fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7849149fbd7c09a40953bc9d7f994c4a
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-7849149fbd7c09a40953bc9d7f994c4a
+    projectPath: Temp\UnityTempFile-7849149fbd7c09a40953bc9d7f994c4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-7eea8f36ccc91fb4daab15c90080e1f5
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-7eea8f36ccc91fb4daab15c90080e1f5
+    projectPath: Temp\UnityTempFile-7eea8f36ccc91fb4daab15c90080e1f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-87561e719db5f714db9769713d3d7764
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-87561e719db5f714db9769713d3d7764
+    projectPath: Temp\UnityTempFile-87561e719db5f714db9769713d3d7764
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8a6b102e790c8da40a87e8b3cc129041
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-8a6b102e790c8da40a87e8b3cc129041
+    projectPath: Temp\UnityTempFile-8a6b102e790c8da40a87e8b3cc129041
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-951fcc02c0929e649846de1a487c1093
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-951fcc02c0929e649846de1a487c1093
+    projectPath: Temp\UnityTempFile-951fcc02c0929e649846de1a487c1093
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9fa15abece21e674584438314d61b3d0
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-9fa15abece21e674584438314d61b3d0
+    projectPath: Temp\UnityTempFile-9fa15abece21e674584438314d61b3d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b5bfdc826f305e1438ae6a8f469e74c3
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-b5bfdc826f305e1438ae6a8f469e74c3
+    projectPath: Temp\UnityTempFile-b5bfdc826f305e1438ae6a8f469e74c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b6ca11da85c267c48ad1377cc20155c3
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-b6ca11da85c267c48ad1377cc20155c3
+    projectPath: Temp\UnityTempFile-b6ca11da85c267c48ad1377cc20155c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c31d2defbda755d40b6c4c9f2fb388bb
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c31d2defbda755d40b6c4c9f2fb388bb
+    projectPath: Temp\UnityTempFile-c31d2defbda755d40b6c4c9f2fb388bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c3676ad2829aa754abba10638b703548
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c3676ad2829aa754abba10638b703548
+    projectPath: Temp\UnityTempFile-c3676ad2829aa754abba10638b703548
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c5502b9088b37194ea338748513df48f
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c5502b9088b37194ea338748513df48f
+    projectPath: Temp\UnityTempFile-c5502b9088b37194ea338748513df48f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cb7c9b1da9905cd458b94783b6f3ffe7
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-cb7c9b1da9905cd458b94783b6f3ffe7
+    projectPath: Temp\UnityTempFile-cb7c9b1da9905cd458b94783b6f3ffe7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d10b7fa9d3c7734498d782fd80d84eea
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-d10b7fa9d3c7734498d782fd80d84eea
+    projectPath: Temp\UnityTempFile-d10b7fa9d3c7734498d782fd80d84eea
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d3bc911dcf28e2445b8db2bf1389a078
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-d3bc911dcf28e2445b8db2bf1389a078
+    projectPath: Temp\UnityTempFile-d3bc911dcf28e2445b8db2bf1389a078
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e90016e1d3650f647b7c5e5c67c48ce4
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-e90016e1d3650f647b7c5e5c67c48ce4
+    projectPath: Temp\UnityTempFile-e90016e1d3650f647b7c5e5c67c48ce4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e98100baa8f13d84a97eea8fb059915b
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-e98100baa8f13d84a97eea8fb059915b
+    projectPath: Temp\UnityTempFile-e98100baa8f13d84a97eea8fb059915b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ec566d964d9452c469f64385bf1d7fad
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-ec566d964d9452c469f64385bf1d7fad
+    projectPath: Temp\UnityTempFile-ec566d964d9452c469f64385bf1d7fad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f934665d4915d704c841045e54d52537
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-f934665d4915d704c841045e54d52537
+    projectPath: Temp\UnityTempFile-f934665d4915d704c841045e54d52537
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

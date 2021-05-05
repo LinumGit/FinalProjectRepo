@@ -13,6 +13,7 @@ public class PlayerHealth : MonoBehaviour
     public Image healthImg;
     public float knockbackForce;
     public GameObject gameOver;
+    public bool isDead = false;
 
     //Private variables
     Rigidbody2D rb;
@@ -26,10 +27,15 @@ public class PlayerHealth : MonoBehaviour
         sprite = GetComponent<SpriteRenderer>();
         material = GetComponent<Blink>();
         currentHealth = maxHealth;
+        if (!isDead)
+        {
+            gameOver.GetComponent<CanvasGroup>().alpha = 0.0f;
+        }
     }
 
     void Update()
     {
+        deadCheck();
         healthImg.fillAmount = currentHealth / 100;
         if(currentHealth > maxHealth)
         {
@@ -62,10 +68,8 @@ public class PlayerHealth : MonoBehaviour
 
             if (currentHealth <= 0)
             {
-                AudioManager.instance.playAudio(AudioManager.instance.playerDeath);
-                Time.timeScale = 0;
-                AudioManager.instance.bgMusic.Stop();
-                gameOver.SetActive(true);
+                
+                isDead = true;
                 print("Player mort");
             }
         }
@@ -83,6 +87,23 @@ public class PlayerHealth : MonoBehaviour
         yield return new WaitForSeconds(inmunityTime);
         
         isInmune = false;
+    }
+
+    public void deadCheck()
+    {
+        if (isDead)
+        {
+            Time.timeScale = 0;
+
+            gameOver.SetActive(true);
+            AudioManager.instance.bgMusic.Stop();
+            AudioManager.instance.playAudio(AudioManager.instance.playerDeath);
+
+            if (gameOver.GetComponent<CanvasGroup>().alpha < 1f)
+            {
+                gameOver.GetComponent<CanvasGroup>().alpha += 0.005f;
+            }
+        }
     }
 
 }

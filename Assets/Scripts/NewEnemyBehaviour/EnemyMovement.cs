@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     float speed;
-    Rigidbody2D rb;
+    public Rigidbody2D rb;
     Animator anim;
     public Transform wallCheck, pitCheck, groundCheck;
     private bool wallDetected, pitDetected, isGrounded;

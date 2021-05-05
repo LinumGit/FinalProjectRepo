@@ -76,6 +76,8 @@
     <Compile Include="Assets\Scripts\NewEnemyBehaviour\EnemyAttack.cs" />
     <Compile Include="Assets\Scripts\NewEnemyBehaviour\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\NewEnemyBehaviour\EnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\NewEnemyBehaviour\ParentDestroy.cs" />
+    <Compile Include="Assets\Scripts\NewEnemyBehaviour\RespawnScript.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerCombat.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\PlayerJump.cs" />

@@ -16,7 +16,7 @@ public class EnemyHealth : MonoBehaviour
 
     private void Update()
     {
-        if(enemy.healthPoints <= 0)
+        if(enemy.healthPoints <= 0 && !enemy.shouldRespawn)
         {
             StartCoroutine(enemyFadeOut());
         }
@@ -31,8 +31,18 @@ public class EnemyHealth : MonoBehaviour
         if(enemy.healthPoints <= 0)
         {
             anim.SetBool("isDead", true);
-            Die();
+            if (enemy.shouldRespawn)
+            {
+                transform.GetComponentInParent<RespawnScript>().StartCoroutine(GetComponentInParent<RespawnScript>().respawnEnemy());
+                anim.SetBool("respawn", false);
+            }
+            else
+            {
+                Die();
+            }
         }
+
+        
     }
 
     public void Die()
@@ -43,7 +53,7 @@ public class EnemyHealth : MonoBehaviour
         enemy.GetComponent<CircleCollider2D>().enabled = false;
         enemy.GetComponent<BoxCollider2D>().enabled = false;
         AudioManager.instance.playAudio(AudioManager.instance.skeletonDeath);
-        //StartCoroutine(selfDestruct());
+        
     }
 
     public void fadeOut()
@@ -52,7 +62,7 @@ public class EnemyHealth : MonoBehaviour
         float fadeAmount = objectColor.a -= (1 * Time.deltaTime);
         objectColor = new Color(objectColor.r, objectColor.g, objectColor.b, fadeAmount);
         enemy.GetComponent<Renderer>().material.color = objectColor;
-        if(objectColor.a <= 0)
+        if(objectColor.a <= 0 && !enemy.shouldRespawn)
         {
             Destroy(gameObject);
         }
