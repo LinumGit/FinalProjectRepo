@@ -41,6 +41,8 @@ public class BossUI : MonoBehaviour
 
     IEnumerator bossDefeated() {
         AudioManager.instance.playAudio(AudioManager.instance.bossDeath);
+        AudioManager.instance.bossBgMusic.Stop();
+        AudioManager.instance.bossDefeated.Play();
         var velocity = PlayerMovement.instance.GetComponent<Rigidbody2D>().velocity;
         velocity = new Vector2(0, velocity.y);
         PlayerMovement.instance.enabled = false;

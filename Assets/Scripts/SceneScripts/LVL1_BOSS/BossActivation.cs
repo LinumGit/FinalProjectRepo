@@ -15,6 +15,7 @@ public class BossActivation : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             BossUI.instance.BossActivator();
+            AudioManager.instance.bgMusic.Stop();
             StartCoroutine(waitForBoss());
         }
     }
@@ -22,6 +23,7 @@ public class BossActivation : MonoBehaviour
     IEnumerator waitForBoss()
     {
         PlayerMovement.instance.speed = 0;
+        AudioManager.instance.bossBgMusic.Play();
         bossGO.SetActive(true);
         yield return new WaitForSeconds(3f);
         PlayerMovement.instance.speed = 2f;

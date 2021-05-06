@@ -45,6 +45,10 @@ public class PlayerHealth : MonoBehaviour
 
     void Update()
     {
+        if(currentHealth <= 0)
+        {
+            isDead = true;
+        }
         deadCheck();
         healthImg.fillAmount = currentHealth / 100;
         if(currentHealth > maxHealth)

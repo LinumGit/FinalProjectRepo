@@ -10,7 +10,7 @@ public class AudioManager : MonoBehaviour
     public AudioMixer musicMixer, effectsMixer;
 
     public AudioSource arrow, hit, flame, potion, playerDeath, skeletonDeath, arrowGet, playerHit, bgMusic,
-        bossDeath, bossHit, mainMenu;
+        bossDeath, bossHit, mainMenu, bossBgMusic, bossDefeated, gameSaved;
 
     [Range(-80, 10)]
     public float masterVol, effectsVol;

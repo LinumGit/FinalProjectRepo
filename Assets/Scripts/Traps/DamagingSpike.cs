@@ -8,7 +8,7 @@ public class DamagingSpike : MonoBehaviour
     {
         if (collision.transform.CompareTag("Player"))
         {
-            Destroy(collision.gameObject);
+            PlayerHealth.instance.takeDamage(25);
         }
     }
 }

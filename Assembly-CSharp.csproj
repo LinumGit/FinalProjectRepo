@@ -71,6 +71,7 @@
     <Compile Include="Assets\Scripts\Items\SelfDestruct.cs" />
     <Compile Include="Assets\Scripts\Items\SubItems.cs" />
     <Compile Include="Assets\Scripts\Items\WeaponDamage.cs" />
+    <Compile Include="Assets\Scripts\Items\jumpReset.cs" />
     <Compile Include="Assets\Scripts\MainMenu\DataManager.cs" />
     <Compile Include="Assets\Scripts\MainMenu\MainMenuScript.cs" />
     <Compile Include="Assets\Scripts\NewEnemyBehaviour\Enemy.cs" />
