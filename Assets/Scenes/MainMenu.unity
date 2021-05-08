@@ -437,6 +437,7 @@ MonoBehaviour:
   mainMenu: {fileID: 1803432049}
   bossBgMusic: {fileID: 0}
   bossDefeated: {fileID: 0}
+  gameSaved: {fileID: 0}
   masterVol: 0
   effectsVol: 0
   masterSlider: {fileID: 48305188}
@@ -2163,7 +2164,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4.8231697
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -3944,7 +3945,7 @@ AudioSource:
   m_PlayOnAwake: 0
   m_Volume: 0.567
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0

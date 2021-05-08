@@ -13,39 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-06T13:07:02.867+02:00
-  initializedAtString: 2021-05-06T10:14:17.884+02:00
+  lastUpdatedAtString: 2021-05-08T09:25:42.291+02:00
+  initializedAtString: 2021-05-08T07:43:52.233+02:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animations\Boss1\diamond-01.controller
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\diamond-01.controller
-    projectPath: Assets\Animations\Boss1\diamond-01.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Animations\Items\jumpReset.anim
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Items\jumpReset.anim
-    projectPath: Assets\Animations\Items\jumpReset.anim
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Animations\Items\jumpReset.controller
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Items\jumpReset.controller
-    projectPath: Assets\Animations\Items\jumpReset.controller
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Prefabs\jumpReset.prefab
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Prefabs\jumpReset.prefab
-    projectPath: Assets\Prefabs\jumpReset.prefab
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scenes\MainMenu.unity
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainMenu.unity
     projectPath: Assets\Scenes\MainMenu.unity
@@ -58,81 +28,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Items\jumpReset.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\jumpReset.cs
-    projectPath: Assets\Scripts\Items\jumpReset.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PlayerScripts\PlayerHealth.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerHealth.cs
-    projectPath: Assets\Scripts\PlayerScripts\PlayerHealth.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\PlayerScripts\PlayerJump.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerJump.cs
-    projectPath: Assets\Scripts\PlayerScripts\PlayerJump.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\PlayerScripts\PlayerMovement.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerMovement.cs
-    projectPath: Assets\Scripts\PlayerScripts\PlayerMovement.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
-    projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
-    projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\SceneScripts\SavePoint.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\SavePoint.cs
-    projectPath: Assets\Scripts\SceneScripts\SavePoint.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Sounds\AudioManager.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Sounds\AudioManager.cs
-    projectPath: Assets\Scripts\Sounds\AudioManager.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Traps\DamagingSpike.cs
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Traps\DamagingSpike.cs
-    projectPath: Assets\Scripts\Traps\DamagingSpike.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Sounds\Pokemon Red, Yellow, Blue Battle Music- Trainer.mp3
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Pokemon Red, Yellow,
-      Blue Battle Music- Trainer.mp3
-    projectPath: Assets\Sounds\Pokemon Red, Yellow, Blue Battle Music- Trainer.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\Victory Sound Effect - SFX.mp3
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Victory Sound Effect
-      - SFX.mp3
-    projectPath: Assets\Sounds\Victory Sound Effect - SFX.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Sounds\yt1s.com - Undertale Sound Effect Saving.mp3
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\yt1s.com - Undertale
-      Sound Effect Saving.mp3
-    projectPath: Assets\Sounds\yt1s.com - Undertale Sound Effect Saving.mp3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -151,6 +46,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -187,18 +88,2388 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\InspectorExpandedItems.asset
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\InspectorExpandedItems.asset
     projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+  - path: Library\LastBuild.buildreport
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\boot.config
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\boot.config
+    projectPath: Library\PlayerDataCache\Win\Data\boot.config
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\level0
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\level0
+    projectPath: Library\PlayerDataCache\Win\Data\level0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\level1
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\level1
+    projectPath: Library\PlayerDataCache\Win\Data\level1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\AstarPathfindingProject.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\AstarPathfindingProject.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\AstarPathfindingProject.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Cinemachine.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Cinemachine.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Cinemachine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\netstandard.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.ComponentModel.Composition.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Configuration.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Data.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Diagnostics.StackTrace.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Drawing.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.EnterpriseServices.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Globalization.Extensions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.IO.Compression.FileSystem.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Net.Http.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Numerics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Runtime.Serialization.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.ServiceModel.Internals.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Transactions.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.Linq.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\System.Xml.XPath.XDocument.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Animation.Triangle.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.Common.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.PixelPerfect.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Mathematics.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AndroidJNIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.DSPGraphModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputLegacyModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubsystemsModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubsystemsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.SubsystemsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Library\PlayerDataCache\Win\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    projectPath: Library\PlayerDataCache\Win\Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets0.resource
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets0.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets1.assets.resS
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\sharedassets1.assets.resS
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets1.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\Data\sharedassets1.resource
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\Data\sharedassets1.resource
+    projectPath: Library\PlayerDataCache\Win\Data\sharedassets1.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Win\ScriptsOnlyCache.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ShaderCache\0\008a9d29010f87fe2fa8ea3bd897e275.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\008a9d29010f87fe2fa8ea3bd897e275.bin
+    projectPath: Library\ShaderCache\0\008a9d29010f87fe2fa8ea3bd897e275.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\00dbe2de30308f47e07e07abcacf5f26.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\00dbe2de30308f47e07e07abcacf5f26.bin
+    projectPath: Library\ShaderCache\0\00dbe2de30308f47e07e07abcacf5f26.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0106026c54100c1e1edebb221577db93.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0106026c54100c1e1edebb221577db93.bin
+    projectPath: Library\ShaderCache\0\0106026c54100c1e1edebb221577db93.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\016dcff936eaf48021e128dd807b930d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\016dcff936eaf48021e128dd807b930d.bin
+    projectPath: Library\ShaderCache\0\016dcff936eaf48021e128dd807b930d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0264c4156aad3c9a33802de178fbceef.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0264c4156aad3c9a33802de178fbceef.bin
+    projectPath: Library\ShaderCache\0\0264c4156aad3c9a33802de178fbceef.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0296eaccaa27e0a7dc8eab8e8ff1e351.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0296eaccaa27e0a7dc8eab8e8ff1e351.bin
+    projectPath: Library\ShaderCache\0\0296eaccaa27e0a7dc8eab8e8ff1e351.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\02b1bd7bbe7ff52ce149ce942524e2db.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\02b1bd7bbe7ff52ce149ce942524e2db.bin
+    projectPath: Library\ShaderCache\0\02b1bd7bbe7ff52ce149ce942524e2db.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\03c6e920a0aa2a6b3a99f5f25d8b9189.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\03c6e920a0aa2a6b3a99f5f25d8b9189.bin
+    projectPath: Library\ShaderCache\0\03c6e920a0aa2a6b3a99f5f25d8b9189.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\03d26c5d7e24ce6f991efb2dc180b9ec.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\03d26c5d7e24ce6f991efb2dc180b9ec.bin
+    projectPath: Library\ShaderCache\0\03d26c5d7e24ce6f991efb2dc180b9ec.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0416f2e552f118be1b319ac187337ee9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0416f2e552f118be1b319ac187337ee9.bin
+    projectPath: Library\ShaderCache\0\0416f2e552f118be1b319ac187337ee9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\04e986670432f812edeba1b073ac3af6.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\04e986670432f812edeba1b073ac3af6.bin
+    projectPath: Library\ShaderCache\0\04e986670432f812edeba1b073ac3af6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\051c74f53aa9fd0836b8f6aa378626ed.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\051c74f53aa9fd0836b8f6aa378626ed.bin
+    projectPath: Library\ShaderCache\0\051c74f53aa9fd0836b8f6aa378626ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\05b7aa808d7753f87ec56bd615ff2b8a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\05b7aa808d7753f87ec56bd615ff2b8a.bin
+    projectPath: Library\ShaderCache\0\05b7aa808d7753f87ec56bd615ff2b8a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\065be85e1517df84a0e1622b966d4cb2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\065be85e1517df84a0e1622b966d4cb2.bin
+    projectPath: Library\ShaderCache\0\065be85e1517df84a0e1622b966d4cb2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\069cb61b27a362a6ab8c805c31e3d43f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\069cb61b27a362a6ab8c805c31e3d43f.bin
+    projectPath: Library\ShaderCache\0\069cb61b27a362a6ab8c805c31e3d43f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\07067e6d482497af3bd0147bf66c14b0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\07067e6d482497af3bd0147bf66c14b0.bin
+    projectPath: Library\ShaderCache\0\07067e6d482497af3bd0147bf66c14b0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\07a37268b430723323540f4aaf281f3b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\07a37268b430723323540f4aaf281f3b.bin
+    projectPath: Library\ShaderCache\0\07a37268b430723323540f4aaf281f3b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\07c5f5e12c74fbb7b97e71f3c03bb3bc.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\07c5f5e12c74fbb7b97e71f3c03bb3bc.bin
+    projectPath: Library\ShaderCache\0\07c5f5e12c74fbb7b97e71f3c03bb3bc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0854dfd3ae5d4b69ab856582ef1f868e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0854dfd3ae5d4b69ab856582ef1f868e.bin
+    projectPath: Library\ShaderCache\0\0854dfd3ae5d4b69ab856582ef1f868e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0898a0e29fd505c40955d22f6afd83f3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0898a0e29fd505c40955d22f6afd83f3.bin
+    projectPath: Library\ShaderCache\0\0898a0e29fd505c40955d22f6afd83f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\089beff25629150c5576a2f02fcee98e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\089beff25629150c5576a2f02fcee98e.bin
+    projectPath: Library\ShaderCache\0\089beff25629150c5576a2f02fcee98e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\08e0fe5d7a6e84a0650561d93344f487.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\08e0fe5d7a6e84a0650561d93344f487.bin
+    projectPath: Library\ShaderCache\0\08e0fe5d7a6e84a0650561d93344f487.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\09a681a5dec4f13339d79a6cb52f405d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\09a681a5dec4f13339d79a6cb52f405d.bin
+    projectPath: Library\ShaderCache\0\09a681a5dec4f13339d79a6cb52f405d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0d79989437beac0a8f75e5b512433eef.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0d79989437beac0a8f75e5b512433eef.bin
+    projectPath: Library\ShaderCache\0\0d79989437beac0a8f75e5b512433eef.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0dc1022ea30806184604fb8bb0bc7c15.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0dc1022ea30806184604fb8bb0bc7c15.bin
+    projectPath: Library\ShaderCache\0\0dc1022ea30806184604fb8bb0bc7c15.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0f5151a8793133e33817417728cd7a3a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\0\0f5151a8793133e33817417728cd7a3a.bin
+    projectPath: Library\ShaderCache\0\0f5151a8793133e33817417728cd7a3a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\10c0925e6bee3d6bdde88a678caf5b1b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\10c0925e6bee3d6bdde88a678caf5b1b.bin
+    projectPath: Library\ShaderCache\1\10c0925e6bee3d6bdde88a678caf5b1b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\13d78f6650a71da2707725a23aa90b8a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\13d78f6650a71da2707725a23aa90b8a.bin
+    projectPath: Library\ShaderCache\1\13d78f6650a71da2707725a23aa90b8a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1497b0e8a88dfb1415f1d996786f2d99.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1497b0e8a88dfb1415f1d996786f2d99.bin
+    projectPath: Library\ShaderCache\1\1497b0e8a88dfb1415f1d996786f2d99.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1515358854bc052e4ec8d653e9fb4025.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1515358854bc052e4ec8d653e9fb4025.bin
+    projectPath: Library\ShaderCache\1\1515358854bc052e4ec8d653e9fb4025.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\15f22736fbc76d8458a2198da19d1b3b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\15f22736fbc76d8458a2198da19d1b3b.bin
+    projectPath: Library\ShaderCache\1\15f22736fbc76d8458a2198da19d1b3b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\181fd0c24e8c322967d2de375f937553.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\181fd0c24e8c322967d2de375f937553.bin
+    projectPath: Library\ShaderCache\1\181fd0c24e8c322967d2de375f937553.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\18e63e309d60ad120a25a1069c1a3a59.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\18e63e309d60ad120a25a1069c1a3a59.bin
+    projectPath: Library\ShaderCache\1\18e63e309d60ad120a25a1069c1a3a59.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\196a0e8eb8688772dc6fb85c0698b7e1.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\196a0e8eb8688772dc6fb85c0698b7e1.bin
+    projectPath: Library\ShaderCache\1\196a0e8eb8688772dc6fb85c0698b7e1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1a9d43e1d763dcca994b2320590ed9eb.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1a9d43e1d763dcca994b2320590ed9eb.bin
+    projectPath: Library\ShaderCache\1\1a9d43e1d763dcca994b2320590ed9eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1abd3e61cdccb014cacebf929cfe2f9f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1abd3e61cdccb014cacebf929cfe2f9f.bin
+    projectPath: Library\ShaderCache\1\1abd3e61cdccb014cacebf929cfe2f9f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1aebcbe7eaa93a52e09b3b228074829e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1aebcbe7eaa93a52e09b3b228074829e.bin
+    projectPath: Library\ShaderCache\1\1aebcbe7eaa93a52e09b3b228074829e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1bc68cf136b0dd197e7dda09ce0cdc0f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1bc68cf136b0dd197e7dda09ce0cdc0f.bin
+    projectPath: Library\ShaderCache\1\1bc68cf136b0dd197e7dda09ce0cdc0f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1bcaac16bb4ca753ef7ae69a03c6e4a7.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1bcaac16bb4ca753ef7ae69a03c6e4a7.bin
+    projectPath: Library\ShaderCache\1\1bcaac16bb4ca753ef7ae69a03c6e4a7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1cc3a2fa9582bd735e10e798759849f8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1cc3a2fa9582bd735e10e798759849f8.bin
+    projectPath: Library\ShaderCache\1\1cc3a2fa9582bd735e10e798759849f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1d889a5195191a7072f5800f10f1fbd7.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1d889a5195191a7072f5800f10f1fbd7.bin
+    projectPath: Library\ShaderCache\1\1d889a5195191a7072f5800f10f1fbd7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1f8c29189f6df5cbc159d7eed4a25c49.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\1\1f8c29189f6df5cbc159d7eed4a25c49.bin
+    projectPath: Library\ShaderCache\1\1f8c29189f6df5cbc159d7eed4a25c49.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\22fc709e64f4a8f4dc497bf2fa27ee7f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\22fc709e64f4a8f4dc497bf2fa27ee7f.bin
+    projectPath: Library\ShaderCache\2\22fc709e64f4a8f4dc497bf2fa27ee7f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\239af31451d534bbaf2121e3a7b63949.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\239af31451d534bbaf2121e3a7b63949.bin
+    projectPath: Library\ShaderCache\2\239af31451d534bbaf2121e3a7b63949.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\244eb708245f7a1e44a1f39285670410.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\244eb708245f7a1e44a1f39285670410.bin
+    projectPath: Library\ShaderCache\2\244eb708245f7a1e44a1f39285670410.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2568b576270efe0ead2ce5b61f9fb872.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\2568b576270efe0ead2ce5b61f9fb872.bin
+    projectPath: Library\ShaderCache\2\2568b576270efe0ead2ce5b61f9fb872.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\26ccb3b1495fa8d8b2b09ad478ece9d2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\26ccb3b1495fa8d8b2b09ad478ece9d2.bin
+    projectPath: Library\ShaderCache\2\26ccb3b1495fa8d8b2b09ad478ece9d2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\276b29f34c051b6eaed8ca435eabd7f8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\276b29f34c051b6eaed8ca435eabd7f8.bin
+    projectPath: Library\ShaderCache\2\276b29f34c051b6eaed8ca435eabd7f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\27f5af9799641d77662e9e28d4c3dafa.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\27f5af9799641d77662e9e28d4c3dafa.bin
+    projectPath: Library\ShaderCache\2\27f5af9799641d77662e9e28d4c3dafa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\28a5f5bd4b5fe3aa1e96776c4c130af0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\28a5f5bd4b5fe3aa1e96776c4c130af0.bin
+    projectPath: Library\ShaderCache\2\28a5f5bd4b5fe3aa1e96776c4c130af0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\28c8d43943dc8ec8b8d516a52911418c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\28c8d43943dc8ec8b8d516a52911418c.bin
+    projectPath: Library\ShaderCache\2\28c8d43943dc8ec8b8d516a52911418c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2a59e968ef459eee851b52aa9ae22d8e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\2a59e968ef459eee851b52aa9ae22d8e.bin
+    projectPath: Library\ShaderCache\2\2a59e968ef459eee851b52aa9ae22d8e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2ab27f42a3c3310e41a4624766e33b6a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\2ab27f42a3c3310e41a4624766e33b6a.bin
+    projectPath: Library\ShaderCache\2\2ab27f42a3c3310e41a4624766e33b6a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2bbf12422ff7eb9c78e988b4f43c72a8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\2bbf12422ff7eb9c78e988b4f43c72a8.bin
+    projectPath: Library\ShaderCache\2\2bbf12422ff7eb9c78e988b4f43c72a8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2df38721eb36c1a93532b90105142c07.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\2\2df38721eb36c1a93532b90105142c07.bin
+    projectPath: Library\ShaderCache\2\2df38721eb36c1a93532b90105142c07.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3238e34a8800c4cc70d9e00987ae0a7c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3238e34a8800c4cc70d9e00987ae0a7c.bin
+    projectPath: Library\ShaderCache\3\3238e34a8800c4cc70d9e00987ae0a7c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\32adcbd05e4a9e92b2c4c49c0b13fc62.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\32adcbd05e4a9e92b2c4c49c0b13fc62.bin
+    projectPath: Library\ShaderCache\3\32adcbd05e4a9e92b2c4c49c0b13fc62.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\33d9dfb89eafe39f6931624623af3b9a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\33d9dfb89eafe39f6931624623af3b9a.bin
+    projectPath: Library\ShaderCache\3\33d9dfb89eafe39f6931624623af3b9a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\349848162005759227d7a785073c1346.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\349848162005759227d7a785073c1346.bin
+    projectPath: Library\ShaderCache\3\349848162005759227d7a785073c1346.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\350847a2894ddad0b290557f889b5bfb.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\350847a2894ddad0b290557f889b5bfb.bin
+    projectPath: Library\ShaderCache\3\350847a2894ddad0b290557f889b5bfb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3526c84c9d457cf0a3f5d10451fa9367.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3526c84c9d457cf0a3f5d10451fa9367.bin
+    projectPath: Library\ShaderCache\3\3526c84c9d457cf0a3f5d10451fa9367.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\361a53e8f639c3a001b4d831fb642fd7.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\361a53e8f639c3a001b4d831fb642fd7.bin
+    projectPath: Library\ShaderCache\3\361a53e8f639c3a001b4d831fb642fd7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3839bdd6f65c3269d5de2eab6843707c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3839bdd6f65c3269d5de2eab6843707c.bin
+    projectPath: Library\ShaderCache\3\3839bdd6f65c3269d5de2eab6843707c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\39886d33b76b0176bcdd0d6bd9a96880.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\39886d33b76b0176bcdd0d6bd9a96880.bin
+    projectPath: Library\ShaderCache\3\39886d33b76b0176bcdd0d6bd9a96880.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\399c1396d3c28b5705f0baacc0cb9098.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\399c1396d3c28b5705f0baacc0cb9098.bin
+    projectPath: Library\ShaderCache\3\399c1396d3c28b5705f0baacc0cb9098.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\39eb80fb4655049a77b97de8b68ebf3d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\39eb80fb4655049a77b97de8b68ebf3d.bin
+    projectPath: Library\ShaderCache\3\39eb80fb4655049a77b97de8b68ebf3d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3c18867312413ce40b29e59e4090fe41.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3c18867312413ce40b29e59e4090fe41.bin
+    projectPath: Library\ShaderCache\3\3c18867312413ce40b29e59e4090fe41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3cf40ee3f573278f0955757a5f144300.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3cf40ee3f573278f0955757a5f144300.bin
+    projectPath: Library\ShaderCache\3\3cf40ee3f573278f0955757a5f144300.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e059870773e7e707ddee9dbdcbc9f72.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3e059870773e7e707ddee9dbdcbc9f72.bin
+    projectPath: Library\ShaderCache\3\3e059870773e7e707ddee9dbdcbc9f72.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3e9bf76cc0a65ad855c3042ac31b7a21.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3e9bf76cc0a65ad855c3042ac31b7a21.bin
+    projectPath: Library\ShaderCache\3\3e9bf76cc0a65ad855c3042ac31b7a21.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3f4c781cbdc617e0673452ca7a23518a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\3\3f4c781cbdc617e0673452ca7a23518a.bin
+    projectPath: Library\ShaderCache\3\3f4c781cbdc617e0673452ca7a23518a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\401c501cccbe5cf9b950ee59857fa437.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\401c501cccbe5cf9b950ee59857fa437.bin
+    projectPath: Library\ShaderCache\4\401c501cccbe5cf9b950ee59857fa437.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\40533ced05f2d6febe9ce08ac483068e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\40533ced05f2d6febe9ce08ac483068e.bin
+    projectPath: Library\ShaderCache\4\40533ced05f2d6febe9ce08ac483068e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    projectPath: Library\ShaderCache\4\409cdcf700121b4e66c04b8ed84c5cf9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4328b05bbc5ad2c10f4e95c5390b2964.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4328b05bbc5ad2c10f4e95c5390b2964.bin
+    projectPath: Library\ShaderCache\4\4328b05bbc5ad2c10f4e95c5390b2964.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\436d40304e83bfcbda4b5609bcb4f72c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\436d40304e83bfcbda4b5609bcb4f72c.bin
+    projectPath: Library\ShaderCache\4\436d40304e83bfcbda4b5609bcb4f72c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4538c30fe8cdf96c210d7699ffd12521.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4538c30fe8cdf96c210d7699ffd12521.bin
+    projectPath: Library\ShaderCache\4\4538c30fe8cdf96c210d7699ffd12521.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\45c730789166fd720e20af2259b8c117.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\45c730789166fd720e20af2259b8c117.bin
+    projectPath: Library\ShaderCache\4\45c730789166fd720e20af2259b8c117.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\465a8d2f13d461a0a33d5f76a09681ae.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\465a8d2f13d461a0a33d5f76a09681ae.bin
+    projectPath: Library\ShaderCache\4\465a8d2f13d461a0a33d5f76a09681ae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\46a79af1c333f2dea7ba4449bc984219.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\46a79af1c333f2dea7ba4449bc984219.bin
+    projectPath: Library\ShaderCache\4\46a79af1c333f2dea7ba4449bc984219.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\47300c5c3ebd47516a6edcb1f75a698c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\47300c5c3ebd47516a6edcb1f75a698c.bin
+    projectPath: Library\ShaderCache\4\47300c5c3ebd47516a6edcb1f75a698c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4861e251768611f1761244f2d332b91e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4861e251768611f1761244f2d332b91e.bin
+    projectPath: Library\ShaderCache\4\4861e251768611f1761244f2d332b91e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4a0129577084e44003b7369850c0685d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4a0129577084e44003b7369850c0685d.bin
+    projectPath: Library\ShaderCache\4\4a0129577084e44003b7369850c0685d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4b0bcb6a33cb7e316d899ec6c1b78284.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4b0bcb6a33cb7e316d899ec6c1b78284.bin
+    projectPath: Library\ShaderCache\4\4b0bcb6a33cb7e316d899ec6c1b78284.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4d5ba2e4363dd981c027149443e9425b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4d5ba2e4363dd981c027149443e9425b.bin
+    projectPath: Library\ShaderCache\4\4d5ba2e4363dd981c027149443e9425b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4d7fddbe55f9fc6cfb34ce16fa13da15.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4d7fddbe55f9fc6cfb34ce16fa13da15.bin
+    projectPath: Library\ShaderCache\4\4d7fddbe55f9fc6cfb34ce16fa13da15.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4e8983bbb1f50a6e6505ae6ec78d4772.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4e8983bbb1f50a6e6505ae6ec78d4772.bin
+    projectPath: Library\ShaderCache\4\4e8983bbb1f50a6e6505ae6ec78d4772.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4f3825be70a919136e2c0c25bee1608d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\4\4f3825be70a919136e2c0c25bee1608d.bin
+    projectPath: Library\ShaderCache\4\4f3825be70a919136e2c0c25bee1608d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5078da841d923d7ef6fe9dad1274ede6.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\5078da841d923d7ef6fe9dad1274ede6.bin
+    projectPath: Library\ShaderCache\5\5078da841d923d7ef6fe9dad1274ede6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5121f530150130f93a34b7a73d54655c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\5121f530150130f93a34b7a73d54655c.bin
+    projectPath: Library\ShaderCache\5\5121f530150130f93a34b7a73d54655c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\51296ce3b07c01054d723ea74d845392.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\51296ce3b07c01054d723ea74d845392.bin
+    projectPath: Library\ShaderCache\5\51296ce3b07c01054d723ea74d845392.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\51bd1daecd85a541b9889f084e507d37.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\51bd1daecd85a541b9889f084e507d37.bin
+    projectPath: Library\ShaderCache\5\51bd1daecd85a541b9889f084e507d37.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\52077fb63d14fe269ded749f1c9ed12c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\52077fb63d14fe269ded749f1c9ed12c.bin
+    projectPath: Library\ShaderCache\5\52077fb63d14fe269ded749f1c9ed12c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\526c49da90ceaa21e607fa0142899ed2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\526c49da90ceaa21e607fa0142899ed2.bin
+    projectPath: Library\ShaderCache\5\526c49da90ceaa21e607fa0142899ed2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5335eacb20c4793c33cad76e3429fd31.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\5335eacb20c4793c33cad76e3429fd31.bin
+    projectPath: Library\ShaderCache\5\5335eacb20c4793c33cad76e3429fd31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5429735e202e4635db766fd077242e36.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\5429735e202e4635db766fd077242e36.bin
+    projectPath: Library\ShaderCache\5\5429735e202e4635db766fd077242e36.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\542ec322eeff5971b365a45bcea29213.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\542ec322eeff5971b365a45bcea29213.bin
+    projectPath: Library\ShaderCache\5\542ec322eeff5971b365a45bcea29213.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\54e70e9609bf09f612b8336406bdacb0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\54e70e9609bf09f612b8336406bdacb0.bin
+    projectPath: Library\ShaderCache\5\54e70e9609bf09f612b8336406bdacb0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\561e46d69786c8770f7b0117417eca0c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\561e46d69786c8770f7b0117417eca0c.bin
+    projectPath: Library\ShaderCache\5\561e46d69786c8770f7b0117417eca0c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\584a20f2b21079250b4555ebb0d0357e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\584a20f2b21079250b4555ebb0d0357e.bin
+    projectPath: Library\ShaderCache\5\584a20f2b21079250b4555ebb0d0357e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    projectPath: Library\ShaderCache\5\591a820ee59cc2e83ccf0882a088a092.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\608c42f547e2d7fef25d1b918c47ee21.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\608c42f547e2d7fef25d1b918c47ee21.bin
+    projectPath: Library\ShaderCache\6\608c42f547e2d7fef25d1b918c47ee21.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\60ca58ab97ecd14563fc7222961c4e10.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\60ca58ab97ecd14563fc7222961c4e10.bin
+    projectPath: Library\ShaderCache\6\60ca58ab97ecd14563fc7222961c4e10.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6148cdd411c36e3e0214157cace6547e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6148cdd411c36e3e0214157cace6547e.bin
+    projectPath: Library\ShaderCache\6\6148cdd411c36e3e0214157cace6547e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\639ab26c5e3a4b46ad034427ecf29160.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\639ab26c5e3a4b46ad034427ecf29160.bin
+    projectPath: Library\ShaderCache\6\639ab26c5e3a4b46ad034427ecf29160.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\64aab251a4014fa208a99d6d85a8c40a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\64aab251a4014fa208a99d6d85a8c40a.bin
+    projectPath: Library\ShaderCache\6\64aab251a4014fa208a99d6d85a8c40a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\65b46b639bf1f50f3f8729c408558cda.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\65b46b639bf1f50f3f8729c408558cda.bin
+    projectPath: Library\ShaderCache\6\65b46b639bf1f50f3f8729c408558cda.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\664c4fc06d95b40f060b7340895a58fc.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\664c4fc06d95b40f060b7340895a58fc.bin
+    projectPath: Library\ShaderCache\6\664c4fc06d95b40f060b7340895a58fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\68005183beacc21c753c08c336ab06d4.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\68005183beacc21c753c08c336ab06d4.bin
+    projectPath: Library\ShaderCache\6\68005183beacc21c753c08c336ab06d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6c318b969d4bbba5d4089a9b8e2ea655.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6c318b969d4bbba5d4089a9b8e2ea655.bin
+    projectPath: Library\ShaderCache\6\6c318b969d4bbba5d4089a9b8e2ea655.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6c968a0aec9ff19943836596974c7d6b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6c968a0aec9ff19943836596974c7d6b.bin
+    projectPath: Library\ShaderCache\6\6c968a0aec9ff19943836596974c7d6b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6d9090673643e7bd79ca8d1599599871.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6d9090673643e7bd79ca8d1599599871.bin
+    projectPath: Library\ShaderCache\6\6d9090673643e7bd79ca8d1599599871.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6ee3bf2c232f86e8c11d91f18e96b76a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6ee3bf2c232f86e8c11d91f18e96b76a.bin
+    projectPath: Library\ShaderCache\6\6ee3bf2c232f86e8c11d91f18e96b76a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6f24a1cbf6e3b460815911a68e9168aa.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6f24a1cbf6e3b460815911a68e9168aa.bin
+    projectPath: Library\ShaderCache\6\6f24a1cbf6e3b460815911a68e9168aa.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6f97b58ea344bffd19d37ee28f63f9d9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\6\6f97b58ea344bffd19d37ee28f63f9d9.bin
+    projectPath: Library\ShaderCache\6\6f97b58ea344bffd19d37ee28f63f9d9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\709591247254ed13f1d1357c561fe69f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\709591247254ed13f1d1357c561fe69f.bin
+    projectPath: Library\ShaderCache\7\709591247254ed13f1d1357c561fe69f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\70fb76ecd254a8226ccfd375d723ba64.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\70fb76ecd254a8226ccfd375d723ba64.bin
+    projectPath: Library\ShaderCache\7\70fb76ecd254a8226ccfd375d723ba64.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7465016d9425efab7da4ecd8c8df4fd5.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7465016d9425efab7da4ecd8c8df4fd5.bin
+    projectPath: Library\ShaderCache\7\7465016d9425efab7da4ecd8c8df4fd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\749f6fcd136420aaf67b4001919c7a3d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\749f6fcd136420aaf67b4001919c7a3d.bin
+    projectPath: Library\ShaderCache\7\749f6fcd136420aaf67b4001919c7a3d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\76a32c2d426461128b9c1d168314f13e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\76a32c2d426461128b9c1d168314f13e.bin
+    projectPath: Library\ShaderCache\7\76a32c2d426461128b9c1d168314f13e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7767232c4b43568267b3ebdc6d3501af.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7767232c4b43568267b3ebdc6d3501af.bin
+    projectPath: Library\ShaderCache\7\7767232c4b43568267b3ebdc6d3501af.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\78335c73d6591e046a718c543e1f4b12.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\78335c73d6591e046a718c543e1f4b12.bin
+    projectPath: Library\ShaderCache\7\78335c73d6591e046a718c543e1f4b12.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\784d9a341ce4ebd132f18818059d0dde.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\784d9a341ce4ebd132f18818059d0dde.bin
+    projectPath: Library\ShaderCache\7\784d9a341ce4ebd132f18818059d0dde.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\790e2cbdc30a0e9597002ac032a464d3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\790e2cbdc30a0e9597002ac032a464d3.bin
+    projectPath: Library\ShaderCache\7\790e2cbdc30a0e9597002ac032a464d3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7a1319e6c697eba24372d93a54ad5195.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7a1319e6c697eba24372d93a54ad5195.bin
+    projectPath: Library\ShaderCache\7\7a1319e6c697eba24372d93a54ad5195.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7a134bb17cfc6fa7a49f7611c6370f18.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7a134bb17cfc6fa7a49f7611c6370f18.bin
+    projectPath: Library\ShaderCache\7\7a134bb17cfc6fa7a49f7611c6370f18.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7a792443b5b80c09df2e6df4dbf1cbe9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7a792443b5b80c09df2e6df4dbf1cbe9.bin
+    projectPath: Library\ShaderCache\7\7a792443b5b80c09df2e6df4dbf1cbe9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7bfb840ec70e2d8890d55fbb56752462.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7bfb840ec70e2d8890d55fbb56752462.bin
+    projectPath: Library\ShaderCache\7\7bfb840ec70e2d8890d55fbb56752462.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7c0cf0493914f00d2a0b759fac48c3b4.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7c0cf0493914f00d2a0b759fac48c3b4.bin
+    projectPath: Library\ShaderCache\7\7c0cf0493914f00d2a0b759fac48c3b4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7c697b9f32d8be9f508bcc32c4ad8533.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7c697b9f32d8be9f508bcc32c4ad8533.bin
+    projectPath: Library\ShaderCache\7\7c697b9f32d8be9f508bcc32c4ad8533.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7cb16f68578b29958573c86345bcf9e7.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7cb16f68578b29958573c86345bcf9e7.bin
+    projectPath: Library\ShaderCache\7\7cb16f68578b29958573c86345bcf9e7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7d14b946efb195911775a9fe09be265e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7d14b946efb195911775a9fe09be265e.bin
+    projectPath: Library\ShaderCache\7\7d14b946efb195911775a9fe09be265e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7e4b6cebe044dffbf82fbd2fa1e5084e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\7\7e4b6cebe044dffbf82fbd2fa1e5084e.bin
+    projectPath: Library\ShaderCache\7\7e4b6cebe044dffbf82fbd2fa1e5084e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8026e42cbd76c75126b97661caeda413.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\8026e42cbd76c75126b97661caeda413.bin
+    projectPath: Library\ShaderCache\8\8026e42cbd76c75126b97661caeda413.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\804cacf0efc8362f92e479576d8adb2e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\804cacf0efc8362f92e479576d8adb2e.bin
+    projectPath: Library\ShaderCache\8\804cacf0efc8362f92e479576d8adb2e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\80face0bac382d0e5a445d6b8d8444a4.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\80face0bac382d0e5a445d6b8d8444a4.bin
+    projectPath: Library\ShaderCache\8\80face0bac382d0e5a445d6b8d8444a4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\84a521d604dc5eb8b7c805561c056e04.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\84a521d604dc5eb8b7c805561c056e04.bin
+    projectPath: Library\ShaderCache\8\84a521d604dc5eb8b7c805561c056e04.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\85b43b886c1663627e52c54a71a13bb9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\85b43b886c1663627e52c54a71a13bb9.bin
+    projectPath: Library\ShaderCache\8\85b43b886c1663627e52c54a71a13bb9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\87604e0ba174b5d44b5a67befea28877.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\87604e0ba174b5d44b5a67befea28877.bin
+    projectPath: Library\ShaderCache\8\87604e0ba174b5d44b5a67befea28877.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\885d1aa44cedca5b3db080cffa3d7d52.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\885d1aa44cedca5b3db080cffa3d7d52.bin
+    projectPath: Library\ShaderCache\8\885d1aa44cedca5b3db080cffa3d7d52.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\886d084c57ed117e71fa502b04559484.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\886d084c57ed117e71fa502b04559484.bin
+    projectPath: Library\ShaderCache\8\886d084c57ed117e71fa502b04559484.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\892c3e574cea168d0a198e22e9a93bda.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\892c3e574cea168d0a198e22e9a93bda.bin
+    projectPath: Library\ShaderCache\8\892c3e574cea168d0a198e22e9a93bda.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8b40242cfc47f11801e6f00e88583651.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\8b40242cfc47f11801e6f00e88583651.bin
+    projectPath: Library\ShaderCache\8\8b40242cfc47f11801e6f00e88583651.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8c6881c60e81683763d4a165d250e5fe.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\8c6881c60e81683763d4a165d250e5fe.bin
+    projectPath: Library\ShaderCache\8\8c6881c60e81683763d4a165d250e5fe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8d5317a830aa3264aaca8b2052dc94e0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\8d5317a830aa3264aaca8b2052dc94e0.bin
+    projectPath: Library\ShaderCache\8\8d5317a830aa3264aaca8b2052dc94e0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8f41beecc57363662c90b3ed3e2922ca.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\8\8f41beecc57363662c90b3ed3e2922ca.bin
+    projectPath: Library\ShaderCache\8\8f41beecc57363662c90b3ed3e2922ca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\906c091810fb328a7e5c200390e8ab8a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\906c091810fb328a7e5c200390e8ab8a.bin
+    projectPath: Library\ShaderCache\9\906c091810fb328a7e5c200390e8ab8a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\907f223a77dfa9dcc6ff145b2748dac9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\907f223a77dfa9dcc6ff145b2748dac9.bin
+    projectPath: Library\ShaderCache\9\907f223a77dfa9dcc6ff145b2748dac9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\926aa5afa0d36b70e42028f41fec196a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\926aa5afa0d36b70e42028f41fec196a.bin
+    projectPath: Library\ShaderCache\9\926aa5afa0d36b70e42028f41fec196a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\93bfece90f142ed0da6d1cef8e598836.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\93bfece90f142ed0da6d1cef8e598836.bin
+    projectPath: Library\ShaderCache\9\93bfece90f142ed0da6d1cef8e598836.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\965a2c5d5fe943977a17fcb4e50d7738.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\965a2c5d5fe943977a17fcb4e50d7738.bin
+    projectPath: Library\ShaderCache\9\965a2c5d5fe943977a17fcb4e50d7738.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\967d194c1e3d704405e615f4010deafe.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\967d194c1e3d704405e615f4010deafe.bin
+    projectPath: Library\ShaderCache\9\967d194c1e3d704405e615f4010deafe.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9707d732081f34a5eb39558ecfd985c5.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9707d732081f34a5eb39558ecfd985c5.bin
+    projectPath: Library\ShaderCache\9\9707d732081f34a5eb39558ecfd985c5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9742a0dc56cdf4106cf2701ea5ee9193.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9742a0dc56cdf4106cf2701ea5ee9193.bin
+    projectPath: Library\ShaderCache\9\9742a0dc56cdf4106cf2701ea5ee9193.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\97a03a9c22b9c2016f58192238b2153c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\97a03a9c22b9c2016f58192238b2153c.bin
+    projectPath: Library\ShaderCache\9\97a03a9c22b9c2016f58192238b2153c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9840d18c3fe9c6dbb8f05233b8c46796.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9840d18c3fe9c6dbb8f05233b8c46796.bin
+    projectPath: Library\ShaderCache\9\9840d18c3fe9c6dbb8f05233b8c46796.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\98cfedd2a389d059d1139f5ebdd36288.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\98cfedd2a389d059d1139f5ebdd36288.bin
+    projectPath: Library\ShaderCache\9\98cfedd2a389d059d1139f5ebdd36288.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9a723c05ce6ba2fb2e11d00b6fd5e7d0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9a723c05ce6ba2fb2e11d00b6fd5e7d0.bin
+    projectPath: Library\ShaderCache\9\9a723c05ce6ba2fb2e11d00b6fd5e7d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9a99510209994b991dbdda17744d1cae.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9a99510209994b991dbdda17744d1cae.bin
+    projectPath: Library\ShaderCache\9\9a99510209994b991dbdda17744d1cae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9af555c47c50655ab6785435af7bbc7c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9af555c47c50655ab6785435af7bbc7c.bin
+    projectPath: Library\ShaderCache\9\9af555c47c50655ab6785435af7bbc7c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9b6c5ad1a8f1a10aa8d5adaf80cd69a3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9b6c5ad1a8f1a10aa8d5adaf80cd69a3.bin
+    projectPath: Library\ShaderCache\9\9b6c5ad1a8f1a10aa8d5adaf80cd69a3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9b927782b14f8d50f62fd74083ec1a74.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9b927782b14f8d50f62fd74083ec1a74.bin
+    projectPath: Library\ShaderCache\9\9b927782b14f8d50f62fd74083ec1a74.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9c942dd2fbac9f98a2733e4c27647620.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9c942dd2fbac9f98a2733e4c27647620.bin
+    projectPath: Library\ShaderCache\9\9c942dd2fbac9f98a2733e4c27647620.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9d517ec394de590469047acb373e92eb.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9d517ec394de590469047acb373e92eb.bin
+    projectPath: Library\ShaderCache\9\9d517ec394de590469047acb373e92eb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9da2878e06e92fae82cf8eab05890fe9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9da2878e06e92fae82cf8eab05890fe9.bin
+    projectPath: Library\ShaderCache\9\9da2878e06e92fae82cf8eab05890fe9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9dcabccceb4504ad67d1028b881ed5e6.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9dcabccceb4504ad67d1028b881ed5e6.bin
+    projectPath: Library\ShaderCache\9\9dcabccceb4504ad67d1028b881ed5e6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9e30073a9cfd9d537b49d138f3be2f3f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9e30073a9cfd9d537b49d138f3be2f3f.bin
+    projectPath: Library\ShaderCache\9\9e30073a9cfd9d537b49d138f3be2f3f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9ef8547191574f3bf7ddebbfd3ec5621.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9ef8547191574f3bf7ddebbfd3ec5621.bin
+    projectPath: Library\ShaderCache\9\9ef8547191574f3bf7ddebbfd3ec5621.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9f104c8efc5403e686fa25c1846fd8ff.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9f104c8efc5403e686fa25c1846fd8ff.bin
+    projectPath: Library\ShaderCache\9\9f104c8efc5403e686fa25c1846fd8ff.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9f48c9d53d2f7b762db3aa5dda34e686.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\9\9f48c9d53d2f7b762db3aa5dda34e686.bin
+    projectPath: Library\ShaderCache\9\9f48c9d53d2f7b762db3aa5dda34e686.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a04274696a55c537b1b4fb911933144e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a04274696a55c537b1b4fb911933144e.bin
+    projectPath: Library\ShaderCache\a\a04274696a55c537b1b4fb911933144e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a088a51e9555444d928995cde24f7de0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a088a51e9555444d928995cde24f7de0.bin
+    projectPath: Library\ShaderCache\a\a088a51e9555444d928995cde24f7de0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a3c00b2b4fe84d122117bf79fc040017.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a3c00b2b4fe84d122117bf79fc040017.bin
+    projectPath: Library\ShaderCache\a\a3c00b2b4fe84d122117bf79fc040017.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a3c393bb6f01fdf033156b95018c782c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a3c393bb6f01fdf033156b95018c782c.bin
+    projectPath: Library\ShaderCache\a\a3c393bb6f01fdf033156b95018c782c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a516ca5df821086582aef46ad0d16a54.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a516ca5df821086582aef46ad0d16a54.bin
+    projectPath: Library\ShaderCache\a\a516ca5df821086582aef46ad0d16a54.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a5588880730d74378a9fbbf1fccb9b15.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a5588880730d74378a9fbbf1fccb9b15.bin
+    projectPath: Library\ShaderCache\a\a5588880730d74378a9fbbf1fccb9b15.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a5cb9a6a17ba30dc800b1f8d2f182ec3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a5cb9a6a17ba30dc800b1f8d2f182ec3.bin
+    projectPath: Library\ShaderCache\a\a5cb9a6a17ba30dc800b1f8d2f182ec3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a78b6eceb40a5f1d4ed1974c19948801.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a78b6eceb40a5f1d4ed1974c19948801.bin
+    projectPath: Library\ShaderCache\a\a78b6eceb40a5f1d4ed1974c19948801.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a7b0a69f51be1d899ab723a92cf93a22.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a7b0a69f51be1d899ab723a92cf93a22.bin
+    projectPath: Library\ShaderCache\a\a7b0a69f51be1d899ab723a92cf93a22.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a7fa5b5563a2ce211e33f898cc8a6fed.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a7fa5b5563a2ce211e33f898cc8a6fed.bin
+    projectPath: Library\ShaderCache\a\a7fa5b5563a2ce211e33f898cc8a6fed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a87525ef1a460aaf109b66e3e538e94b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a87525ef1a460aaf109b66e3e538e94b.bin
+    projectPath: Library\ShaderCache\a\a87525ef1a460aaf109b66e3e538e94b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a8752c31d684c29cfd3bafe787fd18c2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\a8752c31d684c29cfd3bafe787fd18c2.bin
+    projectPath: Library\ShaderCache\a\a8752c31d684c29cfd3bafe787fd18c2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aab51b1d7271d167b5677a5b5f5d2890.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\aab51b1d7271d167b5677a5b5f5d2890.bin
+    projectPath: Library\ShaderCache\a\aab51b1d7271d167b5677a5b5f5d2890.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aae0bbe74c442cd4c934211be52b2265.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\aae0bbe74c442cd4c934211be52b2265.bin
+    projectPath: Library\ShaderCache\a\aae0bbe74c442cd4c934211be52b2265.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ad2710487880bcef2735b467dae926ab.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\ad2710487880bcef2735b467dae926ab.bin
+    projectPath: Library\ShaderCache\a\ad2710487880bcef2735b467dae926ab.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ad9e9f610f402b7ac89389ad284fdeb9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\ad9e9f610f402b7ac89389ad284fdeb9.bin
+    projectPath: Library\ShaderCache\a\ad9e9f610f402b7ac89389ad284fdeb9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\addb54111ca1f4ae70859bb8abbfdf22.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\addb54111ca1f4ae70859bb8abbfdf22.bin
+    projectPath: Library\ShaderCache\a\addb54111ca1f4ae70859bb8abbfdf22.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\aed924d403d9bbf9f1060b267d154f39.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\a\aed924d403d9bbf9f1060b267d154f39.bin
+    projectPath: Library\ShaderCache\a\aed924d403d9bbf9f1060b267d154f39.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b0e95ef2d45ab7bbc8f097f171b2bf02.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b0e95ef2d45ab7bbc8f097f171b2bf02.bin
+    projectPath: Library\ShaderCache\b\b0e95ef2d45ab7bbc8f097f171b2bf02.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b1b0ba7e015f860b7e7d945ed22ffdba.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b1b0ba7e015f860b7e7d945ed22ffdba.bin
+    projectPath: Library\ShaderCache\b\b1b0ba7e015f860b7e7d945ed22ffdba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b1d8a22449ea10350109a9832a46f2ae.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b1d8a22449ea10350109a9832a46f2ae.bin
+    projectPath: Library\ShaderCache\b\b1d8a22449ea10350109a9832a46f2ae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b2017fc4b17be284d41800c1d9036559.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b2017fc4b17be284d41800c1d9036559.bin
+    projectPath: Library\ShaderCache\b\b2017fc4b17be284d41800c1d9036559.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b2d2389b0bb552d00036d3645653807d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b2d2389b0bb552d00036d3645653807d.bin
+    projectPath: Library\ShaderCache\b\b2d2389b0bb552d00036d3645653807d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b3065652877e19e640f62b429a1266d3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b3065652877e19e640f62b429a1266d3.bin
+    projectPath: Library\ShaderCache\b\b3065652877e19e640f62b429a1266d3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b4c86bdce259759b5445b94c3fcf3903.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b4c86bdce259759b5445b94c3fcf3903.bin
+    projectPath: Library\ShaderCache\b\b4c86bdce259759b5445b94c3fcf3903.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b594828cbfacb606e6690200243238e9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b594828cbfacb606e6690200243238e9.bin
+    projectPath: Library\ShaderCache\b\b594828cbfacb606e6690200243238e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b73891f8d2609474fb80ab66101feb3d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b73891f8d2609474fb80ab66101feb3d.bin
+    projectPath: Library\ShaderCache\b\b73891f8d2609474fb80ab66101feb3d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b7d31e1d7fed81ca45fab718ff6ab1db.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b7d31e1d7fed81ca45fab718ff6ab1db.bin
+    projectPath: Library\ShaderCache\b\b7d31e1d7fed81ca45fab718ff6ab1db.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b7fcb70ef0dede8a29e143eee8824294.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b7fcb70ef0dede8a29e143eee8824294.bin
+    projectPath: Library\ShaderCache\b\b7fcb70ef0dede8a29e143eee8824294.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b8061c591e1039bc20c1ebaf3ea8c718.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b8061c591e1039bc20c1ebaf3ea8c718.bin
+    projectPath: Library\ShaderCache\b\b8061c591e1039bc20c1ebaf3ea8c718.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b846e0f38ebb1d13ca058a550a955caf.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b846e0f38ebb1d13ca058a550a955caf.bin
+    projectPath: Library\ShaderCache\b\b846e0f38ebb1d13ca058a550a955caf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b8f51fe346b53e31f7b7be5f31928327.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\b8f51fe346b53e31f7b7be5f31928327.bin
+    projectPath: Library\ShaderCache\b\b8f51fe346b53e31f7b7be5f31928327.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bb77d87dc6ddcadc662da5dc4a4be5c2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\bb77d87dc6ddcadc662da5dc4a4be5c2.bin
+    projectPath: Library\ShaderCache\b\bb77d87dc6ddcadc662da5dc4a4be5c2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bcd8149aa4ae81245570e329caeb46c8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\bcd8149aa4ae81245570e329caeb46c8.bin
+    projectPath: Library\ShaderCache\b\bcd8149aa4ae81245570e329caeb46c8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bdc0515fcb020f84d105f2540fca64e2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\bdc0515fcb020f84d105f2540fca64e2.bin
+    projectPath: Library\ShaderCache\b\bdc0515fcb020f84d105f2540fca64e2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be19ae62f3b0aa698055d17c45848977.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\be19ae62f3b0aa698055d17c45848977.bin
+    projectPath: Library\ShaderCache\b\be19ae62f3b0aa698055d17c45848977.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bef1c45abb92175f57175cbc70fd55ea.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\bef1c45abb92175f57175cbc70fd55ea.bin
+    projectPath: Library\ShaderCache\b\bef1c45abb92175f57175cbc70fd55ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bf4600c406097f18f008870188165333.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\bf4600c406097f18f008870188165333.bin
+    projectPath: Library\ShaderCache\b\bf4600c406097f18f008870188165333.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bffd4f487401a5a50d98aa6b2fc0c0f3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\b\bffd4f487401a5a50d98aa6b2fc0c0f3.bin
+    projectPath: Library\ShaderCache\b\bffd4f487401a5a50d98aa6b2fc0c0f3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c0570a1ee41e13980ee41210cf55800b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c0570a1ee41e13980ee41210cf55800b.bin
+    projectPath: Library\ShaderCache\c\c0570a1ee41e13980ee41210cf55800b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c15ef23603c945f20f59874165b5c67a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c15ef23603c945f20f59874165b5c67a.bin
+    projectPath: Library\ShaderCache\c\c15ef23603c945f20f59874165b5c67a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c192005c9d9be12eac64d9dcbe05e832.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c192005c9d9be12eac64d9dcbe05e832.bin
+    projectPath: Library\ShaderCache\c\c192005c9d9be12eac64d9dcbe05e832.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c2b5c288381b8bc3afac00ef2ad2c737.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c2b5c288381b8bc3afac00ef2ad2c737.bin
+    projectPath: Library\ShaderCache\c\c2b5c288381b8bc3afac00ef2ad2c737.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c3bd0d6dc9244ca2996104f72b8fbd21.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c3bd0d6dc9244ca2996104f72b8fbd21.bin
+    projectPath: Library\ShaderCache\c\c3bd0d6dc9244ca2996104f72b8fbd21.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c4de526bcf78ece55713755e30de806d.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c4de526bcf78ece55713755e30de806d.bin
+    projectPath: Library\ShaderCache\c\c4de526bcf78ece55713755e30de806d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c528848e76f1258584ee499fc647f2ed.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c528848e76f1258584ee499fc647f2ed.bin
+    projectPath: Library\ShaderCache\c\c528848e76f1258584ee499fc647f2ed.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c5619252c98ca2676059fcbced631160.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c5619252c98ca2676059fcbced631160.bin
+    projectPath: Library\ShaderCache\c\c5619252c98ca2676059fcbced631160.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c567a106769058a12df82a6bc822f09b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c567a106769058a12df82a6bc822f09b.bin
+    projectPath: Library\ShaderCache\c\c567a106769058a12df82a6bc822f09b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c867c2fee08860b3d1f5e2bd2e8b6f21.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c867c2fee08860b3d1f5e2bd2e8b6f21.bin
+    projectPath: Library\ShaderCache\c\c867c2fee08860b3d1f5e2bd2e8b6f21.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c8c8ed305ba11441de2d65157098e52c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c8c8ed305ba11441de2d65157098e52c.bin
+    projectPath: Library\ShaderCache\c\c8c8ed305ba11441de2d65157098e52c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c954d9a7c1de5e1ef731d96a7396054c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c954d9a7c1de5e1ef731d96a7396054c.bin
+    projectPath: Library\ShaderCache\c\c954d9a7c1de5e1ef731d96a7396054c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c9fa24a4b6396352e922094b9c28c7c0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\c9fa24a4b6396352e922094b9c28c7c0.bin
+    projectPath: Library\ShaderCache\c\c9fa24a4b6396352e922094b9c28c7c0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cb57a2951751ef646bd30fbbac3aaff9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\cb57a2951751ef646bd30fbbac3aaff9.bin
+    projectPath: Library\ShaderCache\c\cb57a2951751ef646bd30fbbac3aaff9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cbd72099ce6d5f2d27f2bd86ab940d69.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\cbd72099ce6d5f2d27f2bd86ab940d69.bin
+    projectPath: Library\ShaderCache\c\cbd72099ce6d5f2d27f2bd86ab940d69.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cc250795d847efdb2c76a5aed74542d0.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\cc250795d847efdb2c76a5aed74542d0.bin
+    projectPath: Library\ShaderCache\c\cc250795d847efdb2c76a5aed74542d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cf9a998328c46f52b0e850688130ea89.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\cf9a998328c46f52b0e850688130ea89.bin
+    projectPath: Library\ShaderCache\c\cf9a998328c46f52b0e850688130ea89.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cfa208e6e7ffbe902295655f978707bc.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\c\cfa208e6e7ffbe902295655f978707bc.bin
+    projectPath: Library\ShaderCache\c\cfa208e6e7ffbe902295655f978707bc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d0c12b89127bd28045f27ed457438f72.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d0c12b89127bd28045f27ed457438f72.bin
+    projectPath: Library\ShaderCache\d\d0c12b89127bd28045f27ed457438f72.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d0deac063d72eb1060c9641053e04e6b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d0deac063d72eb1060c9641053e04e6b.bin
+    projectPath: Library\ShaderCache\d\d0deac063d72eb1060c9641053e04e6b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d16215114458081cae63ee932975f83f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d16215114458081cae63ee932975f83f.bin
+    projectPath: Library\ShaderCache\d\d16215114458081cae63ee932975f83f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d340e0b59ea22252e17ac6934a23923a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d340e0b59ea22252e17ac6934a23923a.bin
+    projectPath: Library\ShaderCache\d\d340e0b59ea22252e17ac6934a23923a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d38149fa544804a882483a6cdf666042.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d38149fa544804a882483a6cdf666042.bin
+    projectPath: Library\ShaderCache\d\d38149fa544804a882483a6cdf666042.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d3f897a60b2c8482aa59b11257d01618.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d3f897a60b2c8482aa59b11257d01618.bin
+    projectPath: Library\ShaderCache\d\d3f897a60b2c8482aa59b11257d01618.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d47c7c27565663a67ea610372ee2076b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d47c7c27565663a67ea610372ee2076b.bin
+    projectPath: Library\ShaderCache\d\d47c7c27565663a67ea610372ee2076b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d56f919a31f0f62c99cc38689741ef16.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d56f919a31f0f62c99cc38689741ef16.bin
+    projectPath: Library\ShaderCache\d\d56f919a31f0f62c99cc38689741ef16.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d65b7f36ee3ecac85d09f6f19eff6188.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d65b7f36ee3ecac85d09f6f19eff6188.bin
+    projectPath: Library\ShaderCache\d\d65b7f36ee3ecac85d09f6f19eff6188.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d67fcda24ab734e11762a7c1eaaac49f.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d67fcda24ab734e11762a7c1eaaac49f.bin
+    projectPath: Library\ShaderCache\d\d67fcda24ab734e11762a7c1eaaac49f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d69223da4a2f9569d1e57f7ebbef3453.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d69223da4a2f9569d1e57f7ebbef3453.bin
+    projectPath: Library\ShaderCache\d\d69223da4a2f9569d1e57f7ebbef3453.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d6d1286d289964aeb3890213ff8b0e02.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d6d1286d289964aeb3890213ff8b0e02.bin
+    projectPath: Library\ShaderCache\d\d6d1286d289964aeb3890213ff8b0e02.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d73ebe7afb98aa31285509b52cd721d2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d73ebe7afb98aa31285509b52cd721d2.bin
+    projectPath: Library\ShaderCache\d\d73ebe7afb98aa31285509b52cd721d2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d839c59d88a9a615332114320729c66e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d839c59d88a9a615332114320729c66e.bin
+    projectPath: Library\ShaderCache\d\d839c59d88a9a615332114320729c66e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d964c9f37905cfa25a650e091df39d91.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d964c9f37905cfa25a650e091df39d91.bin
+    projectPath: Library\ShaderCache\d\d964c9f37905cfa25a650e091df39d91.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d9efbd3867c14fbae5f4f384f04576cc.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\d9efbd3867c14fbae5f4f384f04576cc.bin
+    projectPath: Library\ShaderCache\d\d9efbd3867c14fbae5f4f384f04576cc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\da5fb7c16a13cac4fd4f5f86ba0f6f8a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\da5fb7c16a13cac4fd4f5f86ba0f6f8a.bin
+    projectPath: Library\ShaderCache\d\da5fb7c16a13cac4fd4f5f86ba0f6f8a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\da71da3c33873bc8a419482307498989.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\da71da3c33873bc8a419482307498989.bin
+    projectPath: Library\ShaderCache\d\da71da3c33873bc8a419482307498989.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\db57a752a41f082dc48adc9d5da29b0e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\db57a752a41f082dc48adc9d5da29b0e.bin
+    projectPath: Library\ShaderCache\d\db57a752a41f082dc48adc9d5da29b0e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dca1e729637859ee66888aa9082b17cd.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\dca1e729637859ee66888aa9082b17cd.bin
+    projectPath: Library\ShaderCache\d\dca1e729637859ee66888aa9082b17cd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dced8cc22508c9ea7baa6fd49c6fa578.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\dced8cc22508c9ea7baa6fd49c6fa578.bin
+    projectPath: Library\ShaderCache\d\dced8cc22508c9ea7baa6fd49c6fa578.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\ddb1653c884ded860a77f0690c5ef227.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\ddb1653c884ded860a77f0690c5ef227.bin
+    projectPath: Library\ShaderCache\d\ddb1653c884ded860a77f0690c5ef227.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\df0dde544e82813e68c05d5d242d66ad.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\df0dde544e82813e68c05d5d242d66ad.bin
+    projectPath: Library\ShaderCache\d\df0dde544e82813e68c05d5d242d66ad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\df15e2a54f3c0612300a7a9f47f90803.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\df15e2a54f3c0612300a7a9f47f90803.bin
+    projectPath: Library\ShaderCache\d\df15e2a54f3c0612300a7a9f47f90803.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\df5f66c4cf1b039969764121d7e24c4c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\df5f66c4cf1b039969764121d7e24c4c.bin
+    projectPath: Library\ShaderCache\d\df5f66c4cf1b039969764121d7e24c4c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dfbc277cf255b3ab33772290ab33c5a5.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\dfbc277cf255b3ab33772290ab33c5a5.bin
+    projectPath: Library\ShaderCache\d\dfbc277cf255b3ab33772290ab33c5a5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dff1ee4fcbc566646b23c3c160303b37.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\d\dff1ee4fcbc566646b23c3c160303b37.bin
+    projectPath: Library\ShaderCache\d\dff1ee4fcbc566646b23c3c160303b37.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e01a7c9c80fe641b46affe18be6f91cf.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e01a7c9c80fe641b46affe18be6f91cf.bin
+    projectPath: Library\ShaderCache\e\e01a7c9c80fe641b46affe18be6f91cf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e23db144a7742d4b864ee09ef31acd29.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e23db144a7742d4b864ee09ef31acd29.bin
+    projectPath: Library\ShaderCache\e\e23db144a7742d4b864ee09ef31acd29.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e2e80fb6d7b1c4210db0dd3d76c444c9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e2e80fb6d7b1c4210db0dd3d76c444c9.bin
+    projectPath: Library\ShaderCache\e\e2e80fb6d7b1c4210db0dd3d76c444c9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e585a8fb511475830f815b44c1b02c88.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e585a8fb511475830f815b44c1b02c88.bin
+    projectPath: Library\ShaderCache\e\e585a8fb511475830f815b44c1b02c88.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e59cf199a6dc1a049f254a65195757e8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e59cf199a6dc1a049f254a65195757e8.bin
+    projectPath: Library\ShaderCache\e\e59cf199a6dc1a049f254a65195757e8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e5d0b0d521e8ee3c133dac22eb3e25c1.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e5d0b0d521e8ee3c133dac22eb3e25c1.bin
+    projectPath: Library\ShaderCache\e\e5d0b0d521e8ee3c133dac22eb3e25c1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e7235bd22f8ff12b011a643afeec974c.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e7235bd22f8ff12b011a643afeec974c.bin
+    projectPath: Library\ShaderCache\e\e7235bd22f8ff12b011a643afeec974c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e7edfae2a300fc5105f1f403393292e9.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e7edfae2a300fc5105f1f403393292e9.bin
+    projectPath: Library\ShaderCache\e\e7edfae2a300fc5105f1f403393292e9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e9cf0a3bfe898690933c937a18f616c5.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\e9cf0a3bfe898690933c937a18f616c5.bin
+    projectPath: Library\ShaderCache\e\e9cf0a3bfe898690933c937a18f616c5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ea67aead33e111b565c223c17f2f1043.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\ea67aead33e111b565c223c17f2f1043.bin
+    projectPath: Library\ShaderCache\e\ea67aead33e111b565c223c17f2f1043.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ebf0cce1b64ca62d2d03102dbf7dd540.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\ebf0cce1b64ca62d2d03102dbf7dd540.bin
+    projectPath: Library\ShaderCache\e\ebf0cce1b64ca62d2d03102dbf7dd540.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ec9c78f55be1b8a23fdf387cf0878949.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\ec9c78f55be1b8a23fdf387cf0878949.bin
+    projectPath: Library\ShaderCache\e\ec9c78f55be1b8a23fdf387cf0878949.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ed563d51466d44c891ae40a03e708ca3.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\ed563d51466d44c891ae40a03e708ca3.bin
+    projectPath: Library\ShaderCache\e\ed563d51466d44c891ae40a03e708ca3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ef9cc5d79067c829ee13a9c66a15a7c8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\e\ef9cc5d79067c829ee13a9c66a15a7c8.bin
+    projectPath: Library\ShaderCache\e\ef9cc5d79067c829ee13a9c66a15a7c8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f0982349946768b0721b15de65e614a8.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f0982349946768b0721b15de65e614a8.bin
+    projectPath: Library\ShaderCache\f\f0982349946768b0721b15de65e614a8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f11cb2f79d3debc80a28d962c1e86a82.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f11cb2f79d3debc80a28d962c1e86a82.bin
+    projectPath: Library\ShaderCache\f\f11cb2f79d3debc80a28d962c1e86a82.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f65c4e91b6434547a70a05b8c813d916.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f65c4e91b6434547a70a05b8c813d916.bin
+    projectPath: Library\ShaderCache\f\f65c4e91b6434547a70a05b8c813d916.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f6e8326d5844dd2a1d4574d112e7d737.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f6e8326d5844dd2a1d4574d112e7d737.bin
+    projectPath: Library\ShaderCache\f\f6e8326d5844dd2a1d4574d112e7d737.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f84cb65ece92a81764dd307132b45ff1.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f84cb65ece92a81764dd307132b45ff1.bin
+    projectPath: Library\ShaderCache\f\f84cb65ece92a81764dd307132b45ff1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f9621bd602f87252d74744771d0c398a.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f9621bd602f87252d74744771d0c398a.bin
+    projectPath: Library\ShaderCache\f\f9621bd602f87252d74744771d0c398a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\f9ae211c70c751907e0c5712e9c3038e.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\f9ae211c70c751907e0c5712e9c3038e.bin
+    projectPath: Library\ShaderCache\f\f9ae211c70c751907e0c5712e9c3038e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fa5430ef88c7cb7fc6942a010940a042.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fa5430ef88c7cb7fc6942a010940a042.bin
+    projectPath: Library\ShaderCache\f\fa5430ef88c7cb7fc6942a010940a042.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fc699ad93aeb09877c709838561cb7dd.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fc699ad93aeb09877c709838561cb7dd.bin
+    projectPath: Library\ShaderCache\f\fc699ad93aeb09877c709838561cb7dd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fc6dff90f62f98d2bf9d398c6d288836.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fc6dff90f62f98d2bf9d398c6d288836.bin
+    projectPath: Library\ShaderCache\f\fc6dff90f62f98d2bf9d398c6d288836.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fcad6c929028dcf6ffe1790f1a3ce47b.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fcad6c929028dcf6ffe1790f1a3ce47b.bin
+    projectPath: Library\ShaderCache\f\fcad6c929028dcf6ffe1790f1a3ce47b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fda65772851824288d51f0a9e5ee80d2.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fda65772851824288d51f0a9e5ee80d2.bin
+    projectPath: Library\ShaderCache\f\fda65772851824288d51f0a9e5ee80d2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fdbdead23075634b832f0eba5b2ea2ba.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fdbdead23075634b832f0eba5b2ea2ba.bin
+    projectPath: Library\ShaderCache\f\fdbdead23075634b832f0eba5b2ea2ba.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fe63684bd116a9a2cf104e03f557cd80.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fe63684bd116a9a2cf104e03f557cd80.bin
+    projectPath: Library\ShaderCache\f\fe63684bd116a9a2cf104e03f557cd80.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\f\fff360f0a5f2faffdd6bc8e57f104184.bin
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ShaderCache\f\fff360f0a5f2faffdd6bc8e57f104184.bin
+    projectPath: Library\ShaderCache\f\fff360f0a5f2faffdd6bc8e57f104184.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -217,9 +2488,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -232,162 +2515,6 @@ MonoBehaviour:
   - path: Temp\UnityLockfile
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-068d6713ce545a842ae2966aaf214a70
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-068d6713ce545a842ae2966aaf214a70
-    projectPath: Temp\UnityTempFile-068d6713ce545a842ae2966aaf214a70
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-0da9be5a96ec72743826c33b2dada744
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0da9be5a96ec72743826c33b2dada744
-    projectPath: Temp\UnityTempFile-0da9be5a96ec72743826c33b2dada744
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-0f7d1d8f4a92cfc4aa2bb806465fee82
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0f7d1d8f4a92cfc4aa2bb806465fee82
-    projectPath: Temp\UnityTempFile-0f7d1d8f4a92cfc4aa2bb806465fee82
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-148098549303b4144a9d8d069cb5c5c6
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-148098549303b4144a9d8d069cb5c5c6
-    projectPath: Temp\UnityTempFile-148098549303b4144a9d8d069cb5c5c6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-287f351abc13f284dac7145010e277fc
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-287f351abc13f284dac7145010e277fc
-    projectPath: Temp\UnityTempFile-287f351abc13f284dac7145010e277fc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-29b3c667200a41d48a6c2e488fa065c9
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-29b3c667200a41d48a6c2e488fa065c9
-    projectPath: Temp\UnityTempFile-29b3c667200a41d48a6c2e488fa065c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-331c1ce0ba726054aaf89df4e47b2be5
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-331c1ce0ba726054aaf89df4e47b2be5
-    projectPath: Temp\UnityTempFile-331c1ce0ba726054aaf89df4e47b2be5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-3aa43eab619e5e240be4314fac440591
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-3aa43eab619e5e240be4314fac440591
-    projectPath: Temp\UnityTempFile-3aa43eab619e5e240be4314fac440591
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4ce43cdc9a594fc4d87f63522cc12b6b
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-4ce43cdc9a594fc4d87f63522cc12b6b
-    projectPath: Temp\UnityTempFile-4ce43cdc9a594fc4d87f63522cc12b6b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-4f487a2bd7259ce408bf1a3e385b1e46
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-4f487a2bd7259ce408bf1a3e385b1e46
-    projectPath: Temp\UnityTempFile-4f487a2bd7259ce408bf1a3e385b1e46
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-572c30ecb47a53241815065e7a3dca50
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-572c30ecb47a53241815065e7a3dca50
-    projectPath: Temp\UnityTempFile-572c30ecb47a53241815065e7a3dca50
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-57e4ab127e2daed468221332c308958a
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-57e4ab127e2daed468221332c308958a
-    projectPath: Temp\UnityTempFile-57e4ab127e2daed468221332c308958a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-5d562e56f33b8c644a8301109df1a3f9
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-5d562e56f33b8c644a8301109df1a3f9
-    projectPath: Temp\UnityTempFile-5d562e56f33b8c644a8301109df1a3f9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-61fb554372d264849a39de379a4231b4
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-61fb554372d264849a39de379a4231b4
-    projectPath: Temp\UnityTempFile-61fb554372d264849a39de379a4231b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7e05c29066dd2ad4e8250a644e31414f
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-7e05c29066dd2ad4e8250a644e31414f
-    projectPath: Temp\UnityTempFile-7e05c29066dd2ad4e8250a644e31414f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8174404b455ffad4abd80f34512a0661
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-8174404b455ffad4abd80f34512a0661
-    projectPath: Temp\UnityTempFile-8174404b455ffad4abd80f34512a0661
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-857f4adc38383104d963b57fa9a9478c
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-857f4adc38383104d963b57fa9a9478c
-    projectPath: Temp\UnityTempFile-857f4adc38383104d963b57fa9a9478c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-870a55a1defa6de40a4c0d336986c809
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-870a55a1defa6de40a4c0d336986c809
-    projectPath: Temp\UnityTempFile-870a55a1defa6de40a4c0d336986c809
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8c7643188ec8bef49b65cd6a34098d32
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-8c7643188ec8bef49b65cd6a34098d32
-    projectPath: Temp\UnityTempFile-8c7643188ec8bef49b65cd6a34098d32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-98e529aef886ee34e82444a17cd8c0b8
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-98e529aef886ee34e82444a17cd8c0b8
-    projectPath: Temp\UnityTempFile-98e529aef886ee34e82444a17cd8c0b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9c483076c6ac8654dbe1582b949c24a2
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-9c483076c6ac8654dbe1582b949c24a2
-    projectPath: Temp\UnityTempFile-9c483076c6ac8654dbe1582b949c24a2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c674c82dcac192d4b8c3bf92e30e923d
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c674c82dcac192d4b8c3bf92e30e923d
-    projectPath: Temp\UnityTempFile-c674c82dcac192d4b8c3bf92e30e923d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c993b9c45e5cd234a81d6ffd37e897b9
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-c993b9c45e5cd234a81d6ffd37e897b9
-    projectPath: Temp\UnityTempFile-c993b9c45e5cd234a81d6ffd37e897b9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cb0505d5ccad8a8459a448cb6aa58eaa
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-cb0505d5ccad8a8459a448cb6aa58eaa
-    projectPath: Temp\UnityTempFile-cb0505d5ccad8a8459a448cb6aa58eaa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ee2eb1d28dc057046b8f70f11fa1de3c
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-ee2eb1d28dc057046b8f70f11fa1de3c
-    projectPath: Temp\UnityTempFile-ee2eb1d28dc057046b8f70f11fa1de3c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f7a4531948a402e45ad190548b07f8fb
-    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-f7a4531948a402e45ad190548b07f8fb
-    projectPath: Temp\UnityTempFile-f7a4531948a402e45ad190548b07f8fb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

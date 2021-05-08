@@ -13,9 +13,222 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-06T11:23:52.811+02:00
-  initializedAtString: 2021-05-06T10:14:19.430+02:00
+  lastUpdatedAtString: 2021-05-08T09:23:40.912+02:00
+  initializedAtString: 2021-05-08T07:43:52.733+02:00
   log:
+  - commitID: be4a6dd2eb0a635faca4030a0210370eeabb9ea0
+    mergeA: 
+    mergeB: 
+    authorName: Linum
+    authorEmail: mcp2m@hotmail.com
+    commitEmail: mcp2m@hotmail.com
+    commitName: Linum
+    summary: Mechanics I + resetJumpItem
+    description: 
+    timeString: 2021-05-06T13:08:19.000+02:00
+    commitTimeString: 2021-05-06T13:08:19.000+02:00
+    changes:
+    - path: Assembly-CSharp.csproj
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\Boss1\diamond-01.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Boss1\diamond-01.controller
+      projectPath: Assets\Animations\Boss1\diamond-01.controller
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Animations\Items\jumpReset.anim
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Items\jumpReset.anim
+      projectPath: Assets\Animations\Items\jumpReset.anim
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Animations\Items\jumpReset.controller
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Animations\Items\jumpReset.controller
+      projectPath: Assets\Animations\Items\jumpReset.controller
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Prefabs\jumpReset.prefab
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Prefabs\jumpReset.prefab
+      projectPath: Assets\Prefabs\jumpReset.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\MainScene.unity
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainScene.unity
+      projectPath: Assets\Scenes\MainScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Items\jumpReset.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\jumpReset.cs
+      projectPath: Assets\Scripts\Items\jumpReset.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerJump.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerJump.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerJump.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\PlayerScripts\PlayerMovement.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerMovement.cs
+      projectPath: Assets\Scripts\PlayerScripts\PlayerMovement.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossActivation.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      projectPath: Assets\Scripts\SceneScripts\LVL1_BOSS\BossUI.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\SceneScripts\SavePoint.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\SceneScripts\SavePoint.cs
+      projectPath: Assets\Scripts\SceneScripts\SavePoint.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Sounds\AudioManager.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Sounds\AudioManager.cs
+      projectPath: Assets\Scripts\Sounds\AudioManager.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scripts\Traps\DamagingSpike.cs
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Traps\DamagingSpike.cs
+      projectPath: Assets\Scripts\Traps\DamagingSpike.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Sounds\Pokemon Red, Yellow, Blue Battle Music- Trainer.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Pokemon Red, Yellow,
+        Blue Battle Music- Trainer.mp3
+      projectPath: Assets\Sounds\Pokemon Red, Yellow, Blue Battle Music- Trainer.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\Victory Sound Effect - SFX.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\Victory Sound Effect
+        - SFX.mp3
+      projectPath: Assets\Sounds\Victory Sound Effect - SFX.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Sounds\yt1s.com - Undertale Sound Effect Saving.mp3
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Sounds\yt1s.com - Undertale
+        Sound Effect Saving.mp3
+      projectPath: Assets\Sounds\yt1s.com - Undertale Sound Effect Saving.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\db5b11-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\db5b11-mainStage.json
+      projectPath: Library\StateCache\SceneView\db5b11-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\expandedItems
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 0c1c4fd9f439e470e8d722a0db0ec88bf390fd7a
     mergeA: 
     mergeB: 
