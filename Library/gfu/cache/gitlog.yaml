@@ -13,9 +13,99 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-05-09T15:00:05.995+02:00
-  initializedAtString: 2021-05-09T15:00:05.894+02:00
+  lastUpdatedAtString: 2021-05-09T20:54:27.200+02:00
+  initializedAtString: 2021-05-09T19:53:52.421+02:00
   log:
+  - commitID: 65131c69d9d932295e110a8c599bed762323225a
+    mergeA: 
+    mergeB: 
+    authorName: Linum
+    authorEmail: mcp2m@hotmail.com
+    commitEmail: mcp2m@hotmail.com
+    commitName: Linum
+    summary: Mapa II + Polir II
+    description: 
+    timeString: 2021-05-09T15:54:01.000+02:00
+    commitTimeString: 2021-05-09T15:54:01.000+02:00
+    changes:
+    - path: Assets\Scenes\MainScene.unity
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainScene.unity
+      projectPath: Assets\Scenes\MainScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      projectPath: Library\GridBrush\UnityEditor.Tilemaps.GridBrush.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\db5b11-mainStage.json
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\StateCache\SceneView\db5b11-mainStage.json
+      projectPath: Library\StateCache\SceneView\db5b11-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 7bc085a8ef4a89ad1c3f954ee229a244792a3c6e
     mergeA: 
     mergeB: 

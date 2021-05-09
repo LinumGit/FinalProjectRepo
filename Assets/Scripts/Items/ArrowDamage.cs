@@ -17,6 +17,7 @@ public class ArrowDamage : MonoBehaviour
                 collision.GetComponent<BossHealth>().takeDamage(arrowDamage);
             } else {
                 collision.GetComponent<EnemyHealth>().takeDamage(arrowDamage);
+                Destroy(gameObject);
             }            
         }
     }

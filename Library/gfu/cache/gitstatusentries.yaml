@@ -13,12 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-05-09T15:49:23.590+02:00
-  initializedAtString: 2021-05-09T15:43:03.524+02:00
+  lastUpdatedAtString: 2021-05-09T22:02:39.545+02:00
+  initializedAtString: 2021-05-09T19:53:50.870+02:00
   entries:
+  - path: Assets\Scenes\MainMenu.unity
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainMenu.unity
+    projectPath: Assets\Scenes\MainMenu.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Scenes\MainScene.unity
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scenes\MainScene.unity
     projectPath: Assets\Scenes\MainScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Items\ArrowDamage.cs
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\Items\ArrowDamage.cs
+    projectPath: Assets\Scripts\Items\ArrowDamage.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\PlayerScripts\PlayerHealth.cs
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Assets\Scripts\PlayerScripts\PlayerHealth.cs
+    projectPath: Assets\Scripts\PlayerScripts\PlayerHealth.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -31,6 +49,12 @@ MonoBehaviour:
   - path: Library\CurrentLayout-default.dwlt
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentLayout-default.dwlt
     projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -88,6 +112,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\SourceAssetDB
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -106,6 +136,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -115,6 +151,30 @@ MonoBehaviour:
   - path: Temp\UnityLockfile
     fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0a80c8904b7b85e4881c45dbfdb3e375
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-0a80c8904b7b85e4881c45dbfdb3e375
+    projectPath: Temp\UnityTempFile-0a80c8904b7b85e4881c45dbfdb3e375
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-13454d77ce44d144aa696cddf4d05ef7
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-13454d77ce44d144aa696cddf4d05ef7
+    projectPath: Temp\UnityTempFile-13454d77ce44d144aa696cddf4d05ef7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4eb8deb7e1ca6d0449a5ee94d28a556b
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-4eb8deb7e1ca6d0449a5ee94d28a556b
+    projectPath: Temp\UnityTempFile-4eb8deb7e1ca6d0449a5ee94d28a556b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b4a44d137b4d28a4192ffee03fdfb4a7
+    fullPath: D:\DAM2\Unity\Game\FinalProjectRepo\Temp\UnityTempFile-b4a44d137b4d28a4192ffee03fdfb4a7
+    projectPath: Temp\UnityTempFile-b4a44d137b4d28a4192ffee03fdfb4a7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

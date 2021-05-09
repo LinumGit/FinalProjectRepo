@@ -111,6 +111,10 @@ public class PlayerHealth : MonoBehaviour
 
             gameOver.SetActive(true);
             AudioManager.instance.bgMusic.Stop();
+            if (AudioManager.instance.bossBgMusic.isPlaying)
+            {
+                AudioManager.instance.bossBgMusic.Stop();
+            }
             AudioManager.instance.playAudio(AudioManager.instance.playerDeath);
 
             if (gameOver.GetComponent<CanvasGroup>().alpha < 1f)
